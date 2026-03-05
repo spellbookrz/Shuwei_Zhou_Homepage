@@ -74,11 +74,24 @@ I am aiming to integrate these two research directions to develop data-driven mu
       </div>
     </div>
   </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2026_UR_KMINN.pdf' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2026_UR_KMINN.png' | relative_url }}" alt="Graphical abstract (Under review): Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Under review</strong>: Shuwei Zhou, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics".
+        arXiv: <a href="https://arxiv.org/abs/2601.00491">2601.00491</a>.
+        DOI: <a href="https://doi.org/10.48550/arXiv.2601.00491">10.48550/arXiv.2601.00491</a>
+      </div>
+    </div>
+  </div>
 </div>
 
-- **Under review**: Shuwei Zhou, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics". arXiv: <a href="https://arxiv.org/abs/2601.00491">2601.00491</a>. DOI: <a href="https://doi.org/10.48550/arXiv.2601.00491">10.48550/arXiv.2601.00491</a>
-
-- **Accepted / In press**: Shuwei Zhou, et al. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics". <i>International Journal of Solids and Structures</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0020740326002808">ScienceDirect (S0020740326002808)</a>
+- Zhichao Wei, Yijia Mo, **Shuwei Zhou**, Steffen Gerke, Sebastian Münstermann, Michael Brünig. (2026) "Deep learning characterization of stress-state-dependent anisotropic ductile damage". <i>International Journal of Mechanical Sciences</i>, 315, 111424. DOI: <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424">10.1016/j.ijmecsci.2026.111424</a>
 
 - Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, **Shuwei Zhou**, Shoune Xiao. (2025) "Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework". <i>Expert Systems with Applications</i>, 275, 127098. DOI: [10.1016/j.eswa.2025.127098](https://doi.org/10.1016/j.eswa.2025.127098)<span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span>
 
