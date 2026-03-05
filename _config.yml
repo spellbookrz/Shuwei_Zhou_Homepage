@@ -15,7 +15,8 @@ baseurl: "/Shuwei_Zhou_Homepage"
 # - Google Search Console
 # - Bing Webmaster Tools
 # - Baidu Search Resource Platform (站长平台)
-google_site_verification: google-site-verification: google9957999eef8754f8.html
+# For Google "HTML tag" verification, paste the meta tag's content value here.
+google_site_verification: "WjHS8vZADe3VXEkzKOiO7B9Zc6qsbfWe3l-6Tdi_0Ns"
 bing_site_verification:
 baidu_site_verification:
 
