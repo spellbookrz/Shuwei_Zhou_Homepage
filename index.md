@@ -124,11 +124,12 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="peer-reviewer"></span>
 ## Peer Reviewer
-- Reliability Engineering and System Safety
-- Engineering Structures
 - International Journal of Fatigue
 - Engineering Fracture Mechanics
 - Theoretical and Applied Fracture Mechanics
+- Reliability Engineering and System Safety
+- Expert Systems with Applications
+- Engineering Structures
 - Engineering Applications of Artificial Intelligence
 - Journal of Materials Research and Technology
 - Structural Health Monitoring
