@@ -148,7 +148,8 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .pub-item {
   display: grid;
-  grid-template-columns: 220px 1fr;
+  /* roughly 2x larger thumbnail area, while staying responsive */
+  grid-template-columns: clamp(260px, 42vw, 440px) 1fr;
   gap: 14px;
   padding: 12px;
   border: 1px solid var(--border);
