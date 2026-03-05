@@ -3,6 +3,22 @@ title: "Shuwei Zhou"
 description: "Ph.D. Candidate in RWTH Aachen University, focus on Fatigue and Fracture Mechanics."
 repository: "spellbookrz/Shuwei_Zhou_Homepage"
 
+# --- SEO / Indexing (recommended) ---
+# If you publish as a Project Page, set:
+#   url: https://spellbookrz.github.io
+#   baseurl: /Shuwei_Zhou_Homepage
+# If you publish as a Root Page (USERNAME.github.io), set baseurl: ""
+url: "https://spellbookrz.github.io"
+baseurl: "/Shuwei_Zhou_Homepage"
+
+# Site verification (optional). Fill these values after you add your site to:
+# - Google Search Console
+# - Bing Webmaster Tools
+# - Baidu Search Resource Platform (站长平台)
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
+
 # If true, fetch scholar stats via jsDelivr CDN; otherwise use raw.githubusercontent.com
 google_scholar_stats_use_cdn: true
 
