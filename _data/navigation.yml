@@ -1,0 +1,14 @@
+main:
+  - title: "About"
+    url: "/#about-me"
+  - title: "News"
+    url: "/#news"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Educations"
+    url: "/#educations"
+  - title: "Peer Reviewer"
+    url: "/#peer-reviewer"
+
+
+

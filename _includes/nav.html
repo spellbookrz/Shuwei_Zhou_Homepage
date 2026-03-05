@@ -1,0 +1,12 @@
+<nav class="topnav">
+  <div class="topnav__inner">
+    <a class="topnav__brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <div class="topnav__links">
+      {% for link in site.data.navigation.main %}
+        <a class="topnav__link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</nav>
+
+

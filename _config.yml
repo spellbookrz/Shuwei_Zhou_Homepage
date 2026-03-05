@@ -1,0 +1,48 @@
+# Site Settings
+title: "Shuwei Zhou"
+description: "Ph.D. Candidate in RWTH Aachen University, focus on Fatigue and Fracture Mechanics."
+repository: "spellbookrz/spellbookrz.github.io"
+
+# If true, fetch scholar stats via jsDelivr CDN; otherwise use raw.githubusercontent.com
+google_scholar_stats_use_cdn: true
+
+# Author (kept compatible with the original site)
+author:
+  name: "Shuwei Zhou<br>周书蔚"
+  avatar: "images/Shuwei_avatar.jpg"
+  bio: "RWTH Aachen University"
+  location: "Aachen, Germany"
+  employer: "Institute of Metal Forming"
+  email: "shuwei.zhou@ibf.rwth-aachen.de"
+  uri: "https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Lehrstuhl-fuer-Werkstoffmodellierung-in/Arbeitsgruppe-Ermuedungseigenschaften-un/~bgbdqe/Shuwei-Zhou/lidx/1/"
+  googlescholar: "https://scholar.google.com/citations?user=krmnMWIAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Shuwei-Zhou-3?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-7801-909X"
+  scopus: "https://www.scopus.com/authid/detail.uri?authorId=57226158345"
+  github: "spellbookrz"
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+
+include:
+  - _pages
+
+exclude:
+  - docs
+  - google_scholar_crawler
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Sass
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+

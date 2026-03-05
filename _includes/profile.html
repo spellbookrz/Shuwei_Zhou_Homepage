@@ -1,0 +1,32 @@
+{% assign author = site.author %}
+
+<div class="profile">
+  <div class="profile__avatar">
+    {% if author.avatar %}
+      <img src="{{ author.avatar | relative_url }}" alt="{{ site.title }}">
+    {% endif %}
+  </div>
+
+  <div class="profile__main">
+    <h1 class="profile__name">{{ author.name | raw }}</h1>
+    {% if author.bio %}<div class="profile__bio">{{ author.bio }}</div>{% endif %}
+    {% if site.description %}<div class="profile__desc">{{ site.description }}</div>{% endif %}
+
+    <div class="profile__meta">
+      {% if author.location %}<span class="chip">{{ author.location }}</span>{% endif %}
+      {% if author.employer %}<span class="chip">{{ author.employer }}</span>{% endif %}
+    </div>
+
+    <div class="profile__links">
+      {% if author.email %}<a href="mailto:{{ author.email }}">Email</a>{% endif %}
+      {% if author.uri %}<a href="{{ author.uri }}">Website</a>{% endif %}
+      {% if author.googlescholar %}<a href="{{ author.googlescholar }}">Google Scholar</a>{% endif %}
+      {% if author.orcid %}<a href="{{ author.orcid }}">ORCID</a>{% endif %}
+      {% if author.scopus %}<a href="{{ author.scopus }}">Scopus</a>{% endif %}
+      {% if author.researchgate %}<a href="{{ author.researchgate }}">ResearchGate</a>{% endif %}
+      {% if author.github %}<a href="https://github.com/{{ author.github }}">GitHub</a>{% endif %}
+    </div>
+  </div>
+</div>
+
+
