@@ -1,0 +1,42 @@
+name: Update Google Scholar Citation Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *" # 08:00 UTC daily
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          cd ./google_scholar_crawler
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python main.py
+
+      - name: Publish results to google-scholar-stats branch
+        run: |
+          cd ./google_scholar_crawler/results
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add *.json
+          git commit -m "Updated Citation Data"
+          remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push "${remote_repo}" HEAD:google-scholar-stats --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
