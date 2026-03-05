@@ -34,6 +34,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="news"></span>
 ## News
+- *2026.02*
 - *2025.09*: &nbsp; My second paper during Ph.D. study on microstructure-sensitive fatigue modeling by CPFEM is published in <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a>.
 - *2025.05*: &nbsp; I cooperate with <a href="https://www.researchgate.net/profile/Feng-Feng-11">Feng Feng</a> for predicting the probabilistic fatigue life of AM materials in <a href="https://doi.org/10.1016/j.eswa.2025.127098">Expert Systems with Applications</a>.
 - *2025.04*: &nbsp; My first paper during Ph.D. study for a general PINN framework for fatigue life prediction is published in <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a>.
@@ -57,7 +58,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__cite">
-        **Shuwei Zhou**, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials". <i>Engineering Fracture Mechanics</i>, 322, 111136. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">10.1016/j.engfracmech.2025.111136</a><span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span>
+        <strong>Shuwei Zhou</strong>, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials". <i>Engineering Fracture Mechanics</i>, 322, 111136. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">10.1016/j.engfracmech.2025.111136</a><span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span>
       </div>
     </div>
   </div>
@@ -70,7 +71,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__cite">
-        **Shuwei Zhou**, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann. (2026) "Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel". <i>International Journal of Fatigue</i>, 203, 109302. DOI: <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">10.1016/j.ijfatigue.2025.109302</a><span class='show_paper_citations' data='krmnMWIAAAAJ:UebtZRa9Y70C'></span>
+        <strong>Shuwei Zhou</strong>, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann. (2026) "Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel". <i>International Journal of Fatigue</i>, 203, 109302. DOI: <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">10.1016/j.ijfatigue.2025.109302</a><span class='show_paper_citations' data='krmnMWIAAAAJ:UebtZRa9Y70C'></span>
       </div>
     </div>
   </div>
@@ -83,7 +84,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__cite">
-        <strong>Under review</strong>: Shuwei Zhou, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics".
+        <strong>Under review</strong>: <strong>Shuwei Zhou</strong>, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics".
         arXiv: <a href="https://arxiv.org/abs/2601.00491">2601.00491</a>.
         DOI: <a href="https://doi.org/10.48550/arXiv.2601.00491">10.48550/arXiv.2601.00491</a>
       </div>
