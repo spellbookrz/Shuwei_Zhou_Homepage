@@ -148,7 +148,7 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .pub-item {
   display: grid;
-  grid-template-columns: 1fr 240px;
+  grid-template-columns: 140px 1fr;
   gap: 14px;
   padding: 12px;
   border: 1px solid var(--border);
@@ -161,10 +161,11 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 .pub-item__thumb a { display: block; }
 .pub-item__thumb img {
   width: 100%;
-  height: auto;
+  height: 92px;
   display: block;
   border-radius: 12px;
   border: 1px solid var(--border);
+  object-fit: cover;
 }
 
 .anchor {
@@ -195,6 +196,7 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   .topnav__inner { align-items: flex-start; flex-direction: column; }
   .topnav__links { justify-content: flex-start; }
   .pub-item { grid-template-columns: 1fr; }
+  .pub-item__thumb img { height: auto; }
 }
 
 
