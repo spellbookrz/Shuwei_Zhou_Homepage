@@ -23,6 +23,18 @@ bash run_server.sh
 
 把这个文件夹作为一个独立仓库（例如 `USERNAME.github.io`），push 到 GitHub 后，在仓库设置里开启 GitHub Pages（如果需要）。
 
-> 如果你想继续使用 scholar crawler，把 `repository` 配好，并确保生成的 `google-scholar-stats/gs_data.json` 位于 `main` 分支即可。
+## Google Scholar 引用数自动更新（可选）
+
+本模板已自带 GitHub Actions 工作流：每天 08:00 UTC 自动抓取 Google Scholar 数据，并推送到仓库的 `google-scholar-stats` 分支。
+
+你需要做的：
+1. 在仓库里添加 secret：`Settings → Secrets and variables → Actions → New repository secret`
+   - **Name**：`GOOGLE_SCHOLAR_ID`
+   - **Value**：你的 Google Scholar ID（在 Scholar 主页链接里 `user=...` 的值）
+2. 进入仓库 `Actions` 页面，找到 **Update Google Scholar Citation Data**，点一次 **Run workflow** 做首次生成。
+
+验证方式：
+- 仓库出现分支 **`google-scholar-stats`**，且包含 `gs_data.json`
+- 页面里 `<span class='show_paper_citations'>` 会显示 `| Citations: N`
 
 
