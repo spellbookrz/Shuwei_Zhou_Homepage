@@ -34,7 +34,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="news"></span>
 ## News
-- *2026.02*
+- *2026.02* : &nbsp; I cooperate with <a href="https://scholar.google.com/citations?user=jtV668sAAAAJ&hl=en">Dr. Zhichao Wei</a> for  automated detection of micro-voids in SEM images by deep learning method in <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424"> International Journal of Mechanical Sciences</a>.
 - *2025.09*: &nbsp; My second paper during Ph.D. study on microstructure-sensitive fatigue modeling by CPFEM is published in <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a>.
 - *2025.05*: &nbsp; I cooperate with <a href="https://www.researchgate.net/profile/Feng-Feng-11">Feng Feng</a> for predicting the probabilistic fatigue life of AM materials in <a href="https://doi.org/10.1016/j.eswa.2025.127098">Expert Systems with Applications</a>.
 - *2025.04*: &nbsp; My first paper during Ph.D. study for a general PINN framework for fatigue life prediction is published in <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a>.
