@@ -148,7 +148,7 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .pub-item {
   display: grid;
-  grid-template-columns: 180px 1fr;
+  grid-template-columns: 220px 1fr;
   gap: 14px;
   padding: 12px;
   border: 1px solid var(--border);
@@ -162,11 +162,13 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 .pub-item__thumb a { display: block; }
 .pub-item__thumb img {
   width: 100%;
-  height: 120px;
+  height: auto;
   display: block;
   border-radius: 12px;
   border: 1px solid var(--border);
-  object-fit: cover;
+  aspect-ratio: 3249 / 1432;
+  object-fit: contain;
+  background: color-mix(in srgb, var(--bg) 80%, var(--chip-bg));
 }
 
 .anchor {
