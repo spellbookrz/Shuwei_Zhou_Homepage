@@ -76,6 +76,10 @@ I am aiming to integrate these two research directions to develop data-driven mu
   </div>
 </div>
 
+- **Under review**: Shuwei Zhou, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics". arXiv: <a href="https://arxiv.org/abs/2601.00491">2601.00491</a>. DOI: <a href="https://doi.org/10.48550/arXiv.2601.00491">10.48550/arXiv.2601.00491</a>
+
+- **Accepted / In press**: Shuwei Zhou, et al. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics". <i>International Journal of Solids and Structures</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0020740326002808">ScienceDirect (S0020740326002808)</a>
+
 - Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, **Shuwei Zhou**, Shoune Xiao. (2025) "Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework". <i>Expert Systems with Applications</i>, 275, 127098. DOI: [10.1016/j.eswa.2025.127098](https://doi.org/10.1016/j.eswa.2025.127098)<span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span>
 
 - Weiying Wen, Huan Qi, Zhen Liao, Lanxin Jiang, Mian Huang, Bing Yang, Zhiwei Wu, **Shuwei Zhou**. (2025) "In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys: Multiple strategies involving microdefects and microstructures". <i>Materials Science and Engineering: A</i>, 924, 147802. DOI: [10.1016/j.msea.2025.147802](https://doi.org/10.1016/j.msea.2025.147802)<span class='show_paper_citations' data='krmnMWIAAAAJ:_FxGoFyzp5QC'></span>
