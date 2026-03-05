@@ -48,11 +48,35 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="publications"></span>
 ## Publications
-- **Shuwei Zhou**, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann. (2026) "Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel". <i>International Journal of Fatigue</i>, 203, 109302. DOI: [10.1016/j.ijfatigue.2025.109302](https://doi.org/10.1016/j.ijfatigue.2025.109302)<span class='show_paper_citations' data='krmnMWIAAAAJ:UebtZRa9Y70C'></span>
+<div class="pub-featured">
+  <div class="pub-item">
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        **Shuwei Zhou**, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials". <i>Engineering Fracture Mechanics</i>, 322, 111136. DOI: [10.1016/j.engfracmech.2025.111136](https://doi.org/10.1016/j.engfracmech.2025.111136)<span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span>
+      </div>
+    </div>
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" alt="Graphical abstract: PINN framework for fatigue life prediction">
+      </a>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        **Shuwei Zhou**, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann. (2026) "Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel". <i>International Journal of Fatigue</i>, 203, 109302. DOI: [10.1016/j.ijfatigue.2025.109302](https://doi.org/10.1016/j.ijfatigue.2025.109302)<span class='show_paper_citations' data='krmnMWIAAAAJ:UebtZRa9Y70C'></span>
+      </div>
+    </div>
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025_IJF_CP_for_fatigue.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025_IJF_CP_for_fatigue.jpg' | relative_url }}" alt="Graphical abstract: CPFEM-based microstructure-sensitive fatigue modeling">
+      </a>
+    </div>
+  </div>
+</div>
 
 - Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, **Shuwei Zhou**, Shoune Xiao. (2025) "Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework". <i>Expert Systems with Applications</i>, 275, 127098. DOI: [10.1016/j.eswa.2025.127098](https://doi.org/10.1016/j.eswa.2025.127098)<span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span>
-
-- **Shuwei Zhou**, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials". <i>Engineering Fracture Mechanics</i>, 322, 111136. DOI: [10.1016/j.engfracmech.2025.111136](https://doi.org/10.1016/j.engfracmech.2025.111136)<span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span>
 
 - Weiying Wen, Huan Qi, Zhen Liao, Lanxin Jiang, Mian Huang, Bing Yang, Zhiwei Wu, **Shuwei Zhou**. (2025) "In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys: Multiple strategies involving microdefects and microstructures". <i>Materials Science and Engineering: A</i>, 924, 147802. DOI: [10.1016/j.msea.2025.147802](https://doi.org/10.1016/j.msea.2025.147802)<span class='show_paper_citations' data='krmnMWIAAAAJ:_FxGoFyzp5QC'></span>
 
