@@ -1,40 +1,26 @@
-# new_homepage (简洁学术主页模板)
+# new_homepage
 
-这个文件夹是基于 `Basical_information/acad-homepage.github.io` 重新整理的**极简学术主页模板**：
-- 保留原有信息（`_config.yml` 的 `author` 与 `index.md` 的内容）
-- 更轻量的布局与样式（无 sidebar、无 jQuery 依赖）
-- 仍支持（可选）Google Scholar 引用数自动显示（如果你的仓库里有 `google-scholar-stats/gs_data.json`）
+一个简化后的学术主页目录，保留个人信息与页面内容，方便直接继续维护。
 
-## 本地预览
+## 目录说明
 
-1. 安装 Ruby / Bundler（按你机器环境即可）
-2. 在本目录执行：
+- `_config.yml`：站点配置文件，包括标题、作者信息、导航等全局设置。
+- `index.md`：主页主要内容，个人简介、论文、项目等通常写在这里。
+- `_data/`：数据文件目录，目前包含 `navigation.yml`，用于导航栏配置。
+- `_includes/`：可复用页面片段，如页头、导航栏、个人信息卡片、页脚。
+- `_layouts/`：页面布局模板，目前主页使用的基础布局在这里。
+- `assets/`：静态资源目录。
+- `assets/css/`：样式文件。
+- `assets/js/`：脚本文件。
+- `images/`：图片与站点图标资源，包括头像、论文配图、favicon 等。
+- `google_scholar_crawler/`：Google Scholar 数据抓取脚本及其依赖文件。
+- `Gemfile`：Jekyll 相关依赖声明。
+- `run_server.sh`：本地启动脚本。
+- `robots.txt`：搜索引擎抓取规则。
+- `README.md`：当前目录说明文件。
 
-```bash
-bundle install
-bash run_server.sh
-```
+## 说明
 
-然后打开 `http://127.0.0.1:4000`
-
-> 说明：部分依赖包含原生扩展（native extension），本地可能需要 `gcc/make` 等开发工具链才能 `bundle install` 成功。
-
-## 部署到 GitHub Pages
-
-把这个文件夹作为一个独立仓库（例如 `USERNAME.github.io`），push 到 GitHub 后，在仓库设置里开启 GitHub Pages（如果需要）。
-
-## Google Scholar 引用数自动更新（可选）
-
-本模板已自带 GitHub Actions 工作流：每天 08:00 UTC 自动抓取 Google Scholar 数据，并推送到仓库的 `google-scholar-stats` 分支。
-
-你需要做的：
-1. 在仓库里添加 secret：`Settings → Secrets and variables → Actions → New repository secret`
-   - **Name**：`GOOGLE_SCHOLAR_ID`
-   - **Value**：你的 Google Scholar ID（在 Scholar 主页链接里 `user=...` 的值）
-2. 进入仓库 `Actions` 页面，找到 **Update Google Scholar Citation Data**，点一次 **Run workflow** 做首次生成。
-
-验证方式：
-- 仓库出现分支 **`google-scholar-stats`**，且包含 `gs_data.json`
-- 页面里 `<span class='show_paper_citations'>` 会显示 `| Citations: N`
+这个目录适合作为独立主页仓库使用，也可以作为现有学术主页的精简版本继续修改。
 
 
