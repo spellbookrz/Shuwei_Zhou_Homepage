@@ -15,7 +15,9 @@ My current research covers two major directions in damage-tolerant fatigue and f
 1. **Physics-embedded Machine Learning for Fatigue and Fracture**
 
    I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
+
    <a href="https://doi.org/10.1016/j.tafmec.2026.105582">Theoretical and Applied Fracture Mechanics</a>
+   
    <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a>
 
    <a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a>
