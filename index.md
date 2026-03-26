@@ -15,7 +15,7 @@ My current research covers two major directions in damage-tolerant fatigue and f
 1. **Physics-embedded Machine Learning for Fatigue and Fracture**
 
    I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
-
+   <a href="https://doi.org/10.1016/j.tafmec.2026.105582">Theoretical and Applied Fracture Mechanics</a>
    <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a>
 
    <a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a>
@@ -34,6 +34,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="news"></span>
 ## News
+- *2026.03* :&nbsp; My third paper during Ph.D study on Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics is published in <a href="https://doi.org/10.1016/j.tafmec.2026.105582">Theoretical and Applied Fracture Mechanics</a>.
 - *2026.02* : &nbsp; I cooperate with <a href="https://scholar.google.com/citations?user=jtV668sAAAAJ&hl=en">Dr. Zhichao Wei</a> for  automated detection of micro-voids in SEM images by deep learning method in <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424"> International Journal of Mechanical Sciences</a>.
 - *2025.09*: &nbsp; My second paper during Ph.D. study on microstructure-sensitive fatigue modeling by CPFEM is published in <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a>.
 - *2025.05*: &nbsp; I cooperate with <a href="https://www.researchgate.net/profile/Feng-Feng-11">Feng Feng</a> for predicting the probabilistic fatigue life of AM materials in <a href="https://doi.org/10.1016/j.eswa.2025.127098">Expert Systems with Applications</a>.
@@ -84,9 +85,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__cite">
-        <strong>Under review</strong>: <strong>Shuwei Zhou</strong>, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics".
-        arXiv: <a href="https://arxiv.org/abs/2601.00491">2601.00491</a>.
-        DOI: <a href="https://doi.org/10.48550/arXiv.2601.00491">10.48550/arXiv.2601.00491</a>
+        <strong>Shuwei Zhou</strong>, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. (2026) "Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics". <i>Theoretical and Applied Fracture Mechanics</i>, 111, 105582. DOI: <a href="https://doi.org/10.1016/j.tafmec.2026.105582">10.1016/j.tafmec.2026.105582</a><span class='show_paper_citations' data='krmnMWIAAAAJ:x8xNhFhA0eEC'></span>
       </div>
     </div>
   </div>
