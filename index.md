@@ -128,6 +128,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - International Journal of Fatigue
 - Engineering Fracture Mechanics
 - Theoretical and Applied Fracture Mechanics
+- International Journal for Numerical Methods in Engineering
 - Reliability Engineering and System Safety
 - Expert Systems with Applications
 - Engineering Structures
