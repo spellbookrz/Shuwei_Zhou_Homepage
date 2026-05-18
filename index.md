@@ -139,6 +139,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - International Journal of Cast Metals Research
 - Journal of Central South University
 - Digital Engineering
+- Computers, Materials & Continua 
 - 工程热物理学报 (Journal of Engineering Thermophysics)
 
 
