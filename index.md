@@ -36,7 +36,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="news"></span>
 ## News
-- *2026.06* :&nbsp; My third paper during Ph.D study on weak form of Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics is published in <a href="https://doi.org/10.1016/j.tafmec.2026.105582">International Journal of Mechanical Sciences</a>.
+- *2026.06* :&nbsp; My third paper during Ph.D study on weak form of Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics is published in <a href="https://arxiv.org/abs/2605.02310">International Journal of Mechanical Sciences</a>.
+- *2026.05* :&nbsp; I cooperate with <a href="https://www.researchgate.net/profile/Mian-Huang">Mian Huang</a> for quasi-static compression energy absorption characteristics of bamboo-inspired heterogeneous hybrid structure with CFRP/SLM-fabricated AlSi10Mg lattice in <a href="https://doi.org/10.1016/j.tws.2026.115160">Thin-Walled Structures</a>.
 - *2026.03* :&nbsp; My third paper during Ph.D study on Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics is published in <a href="https://doi.org/10.1016/j.tafmec.2026.105582">Theoretical and Applied Fracture Mechanics</a>.
 - *2026.02* : &nbsp; I cooperate with <a href="https://scholar.google.com/citations?user=jtV668sAAAAJ&hl=en">Dr. Zhichao Wei</a> for  automated detection of micro-voids in SEM images by deep learning method in <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424"> International Journal of Mechanical Sciences</a>.
 - *2025.09*: &nbsp; My second paper during Ph.D. study on microstructure-sensitive fatigue modeling by CPFEM is published in <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a>.
@@ -159,6 +160,19 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__cite">
         Zhichao Wei, Yijia Mo, <strong>Shuwei Zhou</strong>, Steffen Gerke, Sebastian Münstermann, Michael Brünig. (2026) "Deep learning characterization of stress-state-dependent anisotropic ductile damage". <i>International Journal of Mechanical Sciences</i>, 315, 111424. DOI: <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424">10.1016/j.ijmecsci.2026.111424</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2026-TWS-Huang.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2026-TWS-Huang.jpg' | relative_url }}" alt="Graphical abstract: Quasi-static compression energy absorption characteristics of bamboo-inspired heterogeneous hybrid structure">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Mian Huang, Bing Yang, Yining Wang, Cheng Li, <strong>Shuwei Zhou</strong>, Dongdong Chen, Shoune Xiao. (2026) "Quasi-static compression energy absorption characteristics of bamboo-inspired heterogeneous hybrid structure with CFRP/SLM-fabricated AlSi10Mg lattice". <i>Thin-Walled Structures</i>, 229, 115160. DOI: <a href="https://doi.org/10.1016/j.tws.2026.115160">10.1016/j.tws.2026.115160</a>
       </div>
     </div>
   </div>
