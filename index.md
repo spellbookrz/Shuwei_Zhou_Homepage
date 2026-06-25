@@ -36,6 +36,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="news"></span>
 ## News
+- *2026.06* :&nbsp; My third paper during Ph.D study on weak form of Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics is published in <a href="https://doi.org/10.1016/j.tafmec.2026.105582">International Journal of Mechanical Sciences</a>.
 - *2026.03* :&nbsp; My third paper during Ph.D study on Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics is published in <a href="https://doi.org/10.1016/j.tafmec.2026.105582">Theoretical and Applied Fracture Mechanics</a>.
 - *2026.02* : &nbsp; I cooperate with <a href="https://scholar.google.com/citations?user=jtV668sAAAAJ&hl=en">Dr. Zhichao Wei</a> for  automated detection of micro-voids in SEM images by deep learning method in <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424"> International Journal of Mechanical Sciences</a>.
 - *2025.09*: &nbsp; My second paper during Ph.D. study on microstructure-sensitive fatigue modeling by CPFEM is published in <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a>.
@@ -53,6 +54,19 @@ I am aiming to integrate these two research directions to develop data-driven mu
 <span class="anchor" id="publications"></span>
 ## Publications
 <div class="pub-featured">
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2026-IJMS-Zhou.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2026-IJMS-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Variational Kolosov-Muskhelishvili Network for Elasticity and Fracture">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Christian Häffner, Sophie Stebner, Niklas Fehlemann, Zhichao Wei, Sebastian Münstermann. (2026) "A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture". <i>International Journal of Mechanical Sciences</i> (accepted). arXiv: <a href="https://arxiv.org/abs/2605.02310">2605.02310</a>
+      </div>
+    </div>
+  </div>
+
   <div class="pub-item">
     <div class="pub-item__thumb">
       <a href="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" target="_blank" rel="noopener">
@@ -82,7 +96,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
   <div class="pub-item">
     <div class="pub-item__thumb">
       <a href="{{ '/images/2026_UR_KMINN.pdf' | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ '/images/2026_UR_KMINN.png' | relative_url }}" alt="Graphical abstract (Under review): Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics">
+        <img src="{{ '/images/2026_UR_KMINN.png' | relative_url }}" alt="Graphical abstract: Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics">
       </a>
     </div>
     <div class="pub-item__text">
@@ -91,31 +105,163 @@ I am aiming to integrate these two research directions to develop data-driven mu
       </div>
     </div>
   </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2026-IJMS-wei.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2026-IJMS-wei.jpg' | relative_url }}" alt="Graphical abstract: Deep learning characterization of stress-state-dependent anisotropic ductile damage">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Zhichao Wei, Yijia Mo, <strong>Shuwei Zhou</strong>, Steffen Gerke, Sebastian Münstermann, Michael Brünig. (2026) "Deep learning characterization of stress-state-dependent anisotropic ductile damage". <i>International Journal of Mechanical Sciences</i>, 315, 111424. DOI: <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424">10.1016/j.ijmecsci.2026.111424</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025-ESWA-Feng.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025-ESWA-Feng.jpg' | relative_url }}" alt="Graphical abstract: Probabilistic fatigue life prediction in additive manufacturing materials">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, <strong>Shuwei Zhou</strong>, Shoune Xiao. (2025) "Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework". <i>Expert Systems with Applications</i>, 275, 127098. DOI: <a href="https://doi.org/10.1016/j.eswa.2025.127098">10.1016/j.eswa.2025.127098</a><span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025-MSEA-WEN.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025-MSEA-WEN.jpg' | relative_url }}" alt="Graphical abstract: In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Weiying Wen, Huan Qi, Zhen Liao, Lanxin Jiang, Mian Huang, Bing Yang, Zhiwei Wu, <strong>Shuwei Zhou</strong>. (2025) "In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys: Multiple strategies involving microdefects and microstructures". <i>Materials Science and Engineering: A</i>, 924, 147802. DOI: <a href="https://doi.org/10.1016/j.msea.2025.147802">10.1016/j.msea.2025.147802</a><span class='show_paper_citations' data='krmnMWIAAAAJ:_FxGoFyzp5QC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025-EFM-Wang.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025-EFM-Wang.jpg' | relative_url }}" alt="Graphical abstract: Effective stress intensity factor range for fatigue cracks propagating in mixed mode I-II loading">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Shuancheng Wang, <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2024) "Effective stress intensity factor range for fatigue cracks propagating in mixed mode I-II loading". <i>Engineering Fracture Mechanics</i>, 312, 110641. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2024.110641">10.1016/j.engfracmech.2024.110641</a><span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2024-EFM-WANG.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2024-EFM-WANG.jpg' | relative_url }}" alt="Graphical abstract: Effect of stress ratio and overload on mixed-mode crack propagation behaviour of EA4T steel">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Shuancheng Wang, Bing Yang, <strong>Shuwei Zhou</strong>, Yuanzhi Wang, Shoune Xiao. (2024) "Effect of stress ratio and overload on mixed-mode crack propagation behaviour of EA4T steel". <i>Engineering Fracture Mechanics</i>, 306, 110210. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2024.110210">10.1016/j.engfracmech.2024.110210</a><span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2024-CJME-WANG.webp' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2024-CJME-WANG.webp' | relative_url }}" alt="Graphical abstract: Closure Effect of I + II Mixed-mode Crack for EA4T Axle Steel">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Shuancheng Wang, Bing Yang, <strong>Shuwei Zhou</strong>, Jian Li, Shoune Xiao. (2024) "Closure Effect of I + II Mixed-mode Crack for EA4T Axle Steel". <i>Chinese Journal of Mechanical Engineering</i>, 37(1). DOI: <a href="https://doi.org/10.1186/s10033-024-01061-1">10.1186/s10033-024-01061-1</a><span class='show_paper_citations' data='krmnMWIAAAAJ:eQOLeE2rZwMC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025-IJF-feng.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025-IJF-feng.jpg' | relative_url }}" alt="Graphical abstract: A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Feng Feng, Tao Zhu, Bing Yang, <strong>Shuwei Zhou</strong>, Shoune Xiao. (2024) "A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel based on defect features". <i>International Journal of Fatigue</i>, 188, 108486. DOI: <a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">10.1016/j.ijfatigue.2024.108486</a><span class='show_paper_citations' data='krmnMWIAAAAJ:YsMSGLbcyi4C'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" alt="Graphical abstract: Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2024) "Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour". <i>Metals and Materials International</i>, 30(7), 1944-1964. DOI: <a href="https://doi.org/10.1007/s12540-024-01628-6">10.1007/s12540-024-01628-6</a><span class='show_paper_citations' data='krmnMWIAAAAJ:IjCSPb-OGe4C'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression". <i>Chinese Journal of Mechanical Engineering</i>, 36(1). DOI: <a href="https://doi.org/10.1186/s10033-023-00876-8">10.1186/s10033-023-00876-8</a><span class='show_paper_citations' data='krmnMWIAAAAJ:9yKSN-GCB0IC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2023-youse-Zhou.png' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2023-youse-Zhou.png' | relative_url }}" alt="Graphical abstract: Estimating the fatigue crack growth rate of 6005A-T6 aluminum alloys with different stress ratios using machine learning methods">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Bing Yang, Chao Wang, Shuancheng Wang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Estimating the fatigue crack growth rate of 6005A–T6 aluminum alloys with different stress ratios using machine learning methods/机器学习法预测不同应力比 6005A-T6铝合金疲劳裂纹扩展速率". <i>中国有色金属学报 (Chinese Journal of Nonferrous Metals)</i>, 33(8), 2416-2427. DOI: <a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">10.11817/j.ysxb.1004.0609.2022-43508</a><span class='show_paper_citations' data='krmnMWIAAAAJ:d1gkVwhDpl0C'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2023-EFM-Wang.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2023-EFM-Wang.jpg' | relative_url }}" alt="Graphical abstract: Mixed mode crack growth behaviour considering plasticity-induced and roughness-induced closure">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Shuancheng Wang, Bing Yang, Jian Li, <strong>Shuwei Zhou</strong>, Shoune Xiao. (2023) "Mixed mode crack growth behaviour considering plasticity-induced and roughness-induced closure". <i>Engineering Fracture Mechanics</i>, 289, 109430. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2023.109430">10.1016/j.engfracmech.2023.109430</a><span class='show_paper_citations' data='krmnMWIAAAAJ:qjMakFHDy7sC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2021-CJME-Wei.webp' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2021-CJME-Wei.webp' | relative_url }}" alt="Graphical abstract: Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        Bing Yang, Zhanjiang Wei, Zhen Liao, <strong>Shuwei Zhou</strong>, Shoune Xiao, Tao Zhu, Guangwu Yang, Mingmeng Wang. (2021) "Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique". <i>Chinese Journal of Mechanical Engineering</i>, 34(1). DOI: <a href="https://doi.org/10.1186/s10033-021-00585-0">10.1186/s10033-021-00585-0</a><span class='show_paper_citations' data='krmnMWIAAAAJ:2osOgNQ5qMEC'></span>
+      </div>
+    </div>
+  </div>
 </div>
-
-- Zhichao Wei, Yijia Mo, **Shuwei Zhou**, Steffen Gerke, Sebastian Münstermann, Michael Brünig. (2026) "Deep learning characterization of stress-state-dependent anisotropic ductile damage". <i>International Journal of Mechanical Sciences</i>, 315, 111424. DOI: <a href="https://doi.org/10.1016/j.ijmecsci.2026.111424">10.1016/j.ijmecsci.2026.111424</a>
-
-- Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, **Shuwei Zhou**, Shoune Xiao. (2025) "Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework". <i>Expert Systems with Applications</i>, 275, 127098. DOI: [10.1016/j.eswa.2025.127098](https://doi.org/10.1016/j.eswa.2025.127098)<span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span>
-
-- Weiying Wen, Huan Qi, Zhen Liao, Lanxin Jiang, Mian Huang, Bing Yang, Zhiwei Wu, **Shuwei Zhou**. (2025) "In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys: Multiple strategies involving microdefects and microstructures". <i>Materials Science and Engineering: A</i>, 924, 147802. DOI: [10.1016/j.msea.2025.147802](https://doi.org/10.1016/j.msea.2025.147802)<span class='show_paper_citations' data='krmnMWIAAAAJ:_FxGoFyzp5QC'></span>
-
-- Shuancheng Wang, **Shuwei Zhou**, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2024) "Effective stress intensity factor range for fatigue cracks propagating in mixed mode I-II loading". <i>Engineering Fracture Mechanics</i>, 312, 110641. DOI: [10.1016/j.engfracmech.2024.110641](https://doi.org/10.1016/j.engfracmech.2024.110641)<span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span>
-
-- Shuancheng Wang, Bing Yang, **Shuwei Zhou**, Yuanzhi Wang, Shoune Xiao. (2024) "Effect of stress ratio and overload on mixed-mode crack propagation behaviour of EA4T steel". <i>Engineering Fracture Mechanics</i>, 306, 110210. DOI: [10.1016/j.engfracmech.2024.110210](https://doi.org/10.1016/j.engfracmech.2024.110210)<span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span>
-
-- Shuancheng Wang, Bing Yang, **Shuwei Zhou**, Jian Li, Shoune Xiao. (2024) "Closure Effect of I + II Mixed-mode Crack for EA4T Axle Steel". <i>Chinese Journal of Mechanical Engineering</i>, 37(1). DOI: [10.1186/s10033-024-01061-1](https://doi.org/10.1186/s10033-024-01061-1)<span class='show_paper_citations' data='krmnMWIAAAAJ:eQOLeE2rZwMC'></span>
-
-- Feng Feng, Tao Zhu, Bing Yang, **Shuwei Zhou**, Shoune Xiao. (2024) "A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel based on defect features". <i>International Journal of Fatigue</i>, 188, 108486. DOI: [10.1016/j.ijfatigue.2024.108486](https://doi.org/10.1016/j.ijfatigue.2024.108486)<span class='show_paper_citations' data='krmnMWIAAAAJ:YsMSGLbcyi4C'></span>
-
-- **Shuwei Zhou**, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2024) "Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour". <i>Metals and Materials International</i>, 30(7), 1944-1964. DOI: [10.1007/s12540-024-01628-6](https://doi.org/10.1007/s12540-024-01628-6)<span class='show_paper_citations' data='krmnMWIAAAAJ:IjCSPb-OGe4C'></span>
-
-- **Shuwei Zhou**, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression". <i>Chinese Journal of Mechanical Engineering</i>, 36(1). DOI: [10.1186/s10033-023-00876-8](https://doi.org/10.1186/s10033-023-00876-8)<span class='show_paper_citations' data='krmnMWIAAAAJ:9yKSN-GCB0IC'></span>
-
-- **Shuwei Zhou**, Bing Yang, Chao Wang, Shuancheng Wang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Estimating the fatigue crack growth rate of 6005A–T6 aluminum alloys with different stress ratios using machine learning methods/机器学习法预测不同应力比 6005A-T6铝合金疲劳裂纹扩展速率". <i>中国有色金属学报 (Chinese Journal of Nonferrous Metals)</i>, 33(8), 2416-2427. DOI: [10.11817/j.ysxb.1004.0609.2022-43508](http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh) <span class='show_paper_citations' data='krmnMWIAAAAJ:d1gkVwhDpl0C'></span>
-
-- Shuancheng Wang, Bing Yang, Jian Li, **Shuwei Zhou**, Shoune Xiao. (2023) "Mixed mode crack growth behaviour considering plasticity-induced and roughness-induced closure". <i>Engineering Fracture Mechanics</i>, 289, 109430. DOI: [10.1016/j.engfracmech.2023.109430](https://doi.org/10.1016/j.engfracmech.2023.109430)<span class='show_paper_citations' data='krmnMWIAAAAJ:qjMakFHDy7sC'></span>
-
-- Bing Yang, Zhanjiang Wei, Zhen Liao, **Shuwei Zhou**, Shoune Xiao, Tao Zhu, Guangwu Yang, Mingmeng Wang. (2021) "Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique". <i>Chinese Journal of Mechanical Engineering</i>, 34(1). DOI: [10.1186/s10033-021-00585-0](https://doi.org/10.1186/s10033-021-00585-0)<span class='show_paper_citations' data='krmnMWIAAAAJ:2osOgNQ5qMEC'></span>
 
 <span class="anchor" id="educations"></span>
 ## Educations
