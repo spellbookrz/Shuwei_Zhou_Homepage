@@ -41,6 +41,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 <div class="pub-section">
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">IJMS</span>
       <img src="{{ '/images/2026-IJMS-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Variational Kolosov-Muskhelishvili Network for Elasticity and Fracture">
     </div>
     <div class="pub-item__text">
@@ -52,6 +53,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">IJF</span>
       <img src="{{ '/images/2025_IJF_CP_for_fatigue.jpg' | relative_url }}" alt="Graphical abstract: CPFEM-based microstructure-sensitive fatigue modeling">
     </div>
     <div class="pub-item__text">
@@ -63,6 +65,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">TAFM</span>
       <img src="{{ '/images/2026_UR_KMINN.png' | relative_url }}" alt="Graphical abstract: Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics">
     </div>
     <div class="pub-item__text">
@@ -74,6 +77,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">EFM</span>
       <img src="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" alt="Graphical abstract: PINN framework for fatigue life prediction">
     </div>
     <div class="pub-item__text">
@@ -85,6 +89,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">MMI</span>
       <img src="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" alt="Graphical abstract: Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour">
     </div>
     <div class="pub-item__text">
@@ -96,6 +101,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">CJME</span>
       <img src="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression">
     </div>
     <div class="pub-item__text">
@@ -107,6 +113,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">CJNM</span>
       <img src="{{ '/images/2023-youse-Zhou.png' | relative_url }}" alt="Graphical abstract: Estimating the fatigue crack growth rate of 6005A-T6 aluminum alloys with different stress ratios using machine learning methods">
     </div>
     <div class="pub-item__text">
@@ -121,6 +128,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 <div class="pub-section">
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">IJMS</span>
       <img src="{{ '/images/2026-IJMS-wei.jpg' | relative_url }}" alt="Graphical abstract: Deep learning characterization of stress-state-dependent anisotropic ductile damage">
     </div>
     <div class="pub-item__text">
@@ -132,6 +140,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">TWS</span>
       <img src="{{ '/images/2026-TWS-Huang.jpg' | relative_url }}" alt="Graphical abstract: Quasi-static compression energy absorption characteristics of bamboo-inspired heterogeneous hybrid structure">
     </div>
     <div class="pub-item__text">
@@ -143,6 +152,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">ESWA</span>
       <img src="{{ '/images/2025-ESWA-Feng.jpg' | relative_url }}" alt="Graphical abstract: Probabilistic fatigue life prediction in additive manufacturing materials">
     </div>
     <div class="pub-item__text">
@@ -154,6 +164,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">MSEA</span>
       <img src="{{ '/images/2025-MSEA-WEN.jpg' | relative_url }}" alt="Graphical abstract: In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys">
     </div>
     <div class="pub-item__text">
@@ -165,6 +176,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">EFM</span>
       <img src="{{ '/images/2025-EFM-Wang.jpg' | relative_url }}" alt="Graphical abstract: Effective stress intensity factor range for fatigue cracks propagating in mixed mode I-II loading">
     </div>
     <div class="pub-item__text">
@@ -176,6 +188,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">EFM</span>
       <img src="{{ '/images/2024-EFM-WANG.jpg' | relative_url }}" alt="Graphical abstract: Effect of stress ratio and overload on mixed-mode crack propagation behaviour of EA4T steel">
     </div>
     <div class="pub-item__text">
@@ -187,6 +200,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">CJME</span>
       <img src="{{ '/images/2024-CJME-WANG.webp' | relative_url }}" alt="Graphical abstract: Closure Effect of I + II Mixed-mode Crack for EA4T Axle Steel">
     </div>
     <div class="pub-item__text">
@@ -198,6 +212,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">IJF</span>
       <img src="{{ '/images/2025-IJF-feng.jpg' | relative_url }}" alt="Graphical abstract: A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel">
     </div>
     <div class="pub-item__text">
@@ -209,6 +224,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">EFM</span>
       <img src="{{ '/images/2023-EFM-Wang.jpg' | relative_url }}" alt="Graphical abstract: Mixed mode crack growth behaviour considering plasticity-induced and roughness-induced closure">
     </div>
     <div class="pub-item__text">
@@ -220,6 +236,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
   <div class="pub-item">
     <div class="pub-item__thumb">
+      <span class="pub-item__venue">CJME</span>
       <img src="{{ '/images/2021-CJME-Wei.jpg' | relative_url }}" alt="Graphical abstract: Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique">
     </div>
     <div class="pub-item__text">
