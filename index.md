@@ -53,7 +53,9 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 <span class="anchor" id="publications"></span>
 ## Publications
-<div class="pub-featured">
+
+### First-Author Publications
+<div class="pub-section">
   <div class="pub-item">
     <div class="pub-item__thumb">
       <a href="{{ '/images/2026-IJMS-Zhou.jpg' | relative_url }}" target="_blank" rel="noopener">
@@ -63,19 +65,6 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__cite">
         <strong>Shuwei Zhou</strong>, Christian Häffner, Sophie Stebner, Niklas Fehlemann, Zhichao Wei, Sebastian Münstermann. (2026) "A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture". <i>International Journal of Mechanical Sciences</i> (accepted). arXiv: <a href="https://arxiv.org/abs/2605.02310">2605.02310</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <div class="pub-item__thumb">
-      <a href="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" alt="Graphical abstract: PINN framework for fatigue life prediction">
-      </a>
-    </div>
-    <div class="pub-item__text">
-      <div class="pub-item__cite">
-        <strong>Shuwei Zhou</strong>, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials". <i>Engineering Fracture Mechanics</i>, 322, 111136. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">10.1016/j.engfracmech.2025.111136</a><span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span>
       </div>
     </div>
   </div>
@@ -106,6 +95,61 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
   </div>
 
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" alt="Graphical abstract: PINN framework for fatigue life prediction">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials". <i>Engineering Fracture Mechanics</i>, 322, 111136. DOI: <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">10.1016/j.engfracmech.2025.111136</a><span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" alt="Graphical abstract: Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2024) "Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour". <i>Metals and Materials International</i>, 30(7), 1944-1964. DOI: <a href="https://doi.org/10.1007/s12540-024-01628-6">10.1007/s12540-024-01628-6</a><span class='show_paper_citations' data='krmnMWIAAAAJ:IjCSPb-OGe4C'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression". <i>Chinese Journal of Mechanical Engineering</i>, 36(1). DOI: <a href="https://doi.org/10.1186/s10033-023-00876-8">10.1186/s10033-023-00876-8</a><span class='show_paper_citations' data='krmnMWIAAAAJ:9yKSN-GCB0IC'></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <a href="{{ '/images/2023-youse-Zhou.png' | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ '/images/2023-youse-Zhou.png' | relative_url }}" alt="Graphical abstract: Estimating the fatigue crack growth rate of 6005A-T6 aluminum alloys with different stress ratios using machine learning methods">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__cite">
+        <strong>Shuwei Zhou</strong>, Bing Yang, Chao Wang, Shuancheng Wang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Estimating the fatigue crack growth rate of 6005A–T6 aluminum alloys with different stress ratios using machine learning methods/机器学习法预测不同应力比 6005A-T6铝合金疲劳裂纹扩展速率". <i>中国有色金属学报 (Chinese Journal of Nonferrous Metals)</i>, 33(8), 2416-2427. DOI: <a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">10.11817/j.ysxb.1004.0609.2022-43508</a><span class='show_paper_citations' data='krmnMWIAAAAJ:d1gkVwhDpl0C'></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+### Collaborative Publications
+<div class="pub-section">
   <div class="pub-item">
     <div class="pub-item__thumb">
       <a href="{{ '/images/2026-IJMS-wei.jpg' | relative_url }}" target="_blank" rel="noopener">
@@ -193,45 +237,6 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__cite">
         Feng Feng, Tao Zhu, Bing Yang, <strong>Shuwei Zhou</strong>, Shoune Xiao. (2024) "A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel based on defect features". <i>International Journal of Fatigue</i>, 188, 108486. DOI: <a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">10.1016/j.ijfatigue.2024.108486</a><span class='show_paper_citations' data='krmnMWIAAAAJ:YsMSGLbcyi4C'></span>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <div class="pub-item__thumb">
-      <a href="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" alt="Graphical abstract: Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour">
-      </a>
-    </div>
-    <div class="pub-item__text">
-      <div class="pub-item__cite">
-        <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2024) "Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour". <i>Metals and Materials International</i>, 30(7), 1944-1964. DOI: <a href="https://doi.org/10.1007/s12540-024-01628-6">10.1007/s12540-024-01628-6</a><span class='show_paper_citations' data='krmnMWIAAAAJ:IjCSPb-OGe4C'></span>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <div class="pub-item__thumb">
-      <a href="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression">
-      </a>
-    </div>
-    <div class="pub-item__text">
-      <div class="pub-item__cite">
-        <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression". <i>Chinese Journal of Mechanical Engineering</i>, 36(1). DOI: <a href="https://doi.org/10.1186/s10033-023-00876-8">10.1186/s10033-023-00876-8</a><span class='show_paper_citations' data='krmnMWIAAAAJ:9yKSN-GCB0IC'></span>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <div class="pub-item__thumb">
-      <a href="{{ '/images/2023-youse-Zhou.png' | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ '/images/2023-youse-Zhou.png' | relative_url }}" alt="Graphical abstract: Estimating the fatigue crack growth rate of 6005A-T6 aluminum alloys with different stress ratios using machine learning methods">
-      </a>
-    </div>
-    <div class="pub-item__text">
-      <div class="pub-item__cite">
-        <strong>Shuwei Zhou</strong>, Bing Yang, Chao Wang, Shuancheng Wang, Shoune Xiao, Guangwu Yang, Tao Zhu. (2023) "Estimating the fatigue crack growth rate of 6005A–T6 aluminum alloys with different stress ratios using machine learning methods/机器学习法预测不同应力比 6005A-T6铝合金疲劳裂纹扩展速率". <i>中国有色金属学报 (Chinese Journal of Nonferrous Metals)</i>, 33(8), 2416-2427. DOI: <a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">10.11817/j.ysxb.1004.0609.2022-43508</a><span class='show_paper_citations' data='krmnMWIAAAAJ:d1gkVwhDpl0C'></span>
       </div>
     </div>
   </div>
