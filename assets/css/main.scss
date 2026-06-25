@@ -167,15 +167,53 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   border: 1px solid var(--border);
   border-radius: 14px;
   background: color-mix(in srgb, var(--bg) 88%, var(--chip-bg));
-  align-items: start;
+  align-items: center;
 }
-.pub-item__cite {
+.pub-item__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100%;
+}
+.pub-item__title {
+  margin: 0 0 6px;
+  font-size: 16px;
+  line-height: 1.45;
+}
+.pub-item__title a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.pub-item__title a:hover {
+  color: var(--link-hover);
+}
+.pub-item__authors {
+  margin: 0;
   font-size: 15px;
+  line-height: 1.55;
+}
+.pub-item__pdf {
+  margin-left: 0.35em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.pub-item__summary {
+  margin: 8px 0 0;
+  padding-left: 1.1em;
+  position: relative;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--fg);
+}
+.pub-item__summary::before {
+  content: "•";
+  position: absolute;
+  left: 0;
 }
 .pub-item__thumb {
   width: clamp(280px, 38vw, 420px);
 }
-.pub-item__thumb a { display: block; }
 .pub-item__thumb img {
   width: 100%;
   height: auto;
