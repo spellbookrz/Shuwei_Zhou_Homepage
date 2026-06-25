@@ -200,16 +200,9 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .pub-item__summary {
   margin: 8px 0 0;
-  padding-left: 1.1em;
-  position: relative;
   font-size: 14px;
   line-height: 1.55;
-  color: var(--fg);
-}
-.pub-item__summary::before {
-  content: "•";
-  position: absolute;
-  left: 0;
+  color: var(--muted);
 }
 .pub-item__thumb {
   width: clamp(280px, 38vw, 420px);

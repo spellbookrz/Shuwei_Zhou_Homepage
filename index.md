@@ -46,7 +46,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://arxiv.org/abs/2605.02310">A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Christian Häffner, Sophie Stebner, Niklas Fehlemann, Zhichao Wei, Sebastian Münstermann. <i>International Journal of Mechanical Sciences</i> (2026).</div>
-      <p class="pub-item__summary">We develop a variational Kolosov-Muskhelishvili informed neural network for 2D linear elastic fracture analysis with energy-based training and embedded crack-tip singularities.</p>
+      <p class="pub-item__summary">Embeds Kolosov–Muskhelishvili potentials and crack-tip asymptotics into an energy-based neural framework for accurate 2D elasticity and fracture analysis.</p>
     </div>
   </div>
 
@@ -57,7 +57,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann. <i>International Journal of Fatigue</i> (2026).<span class='show_paper_citations' data='krmnMWIAAAAJ:UebtZRa9Y70C'></span></div>
-      <p class="pub-item__summary">We combine crystal plasticity finite element modeling with fatigue indicator parameters to predict microstructure-sensitive crack initiation sites in LZ50 steel.</p>
+      <p class="pub-item__summary">Couples crystal plasticity, fatigue indicators, and microstructurally short-crack growth to predict crack initiation and total fatigue life in LZ50 steel.</p>
     </div>
   </div>
 
@@ -68,7 +68,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.tafmec.2026.105582">Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. <i>Theoretical and Applied Fracture Mechanics</i> (2026).<span class='show_paper_citations' data='krmnMWIAAAAJ:x8xNhFhA0eEC'></span></div>
-      <p class="pub-item__summary">We propose transfer-learned KM-INNs that reuse pre-trained fracture solutions to accelerate and improve mixed-mode stress intensity factor prediction.</p>
+      <p class="pub-item__summary">Reuses pretrained KM-INN solutions across fracture problems, reducing training effort while retaining accurate mixed-mode stress-intensity-factor predictions.</p>
     </div>
   </div>
 
@@ -79,7 +79,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2025.111136">A general physics-informed neural network framework for fatigue life prediction of metallic materials</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. <i>Engineering Fracture Mechanics</i> (2025).<span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span></div>
-      <p class="pub-item__summary">We present a modular PINN framework that integrates Paris-law physics with SN/data-driven inputs for metallic fatigue life prediction.</p>
+      <p class="pub-item__summary">Encodes general fatigue trends as derivative constraints rather than prescribing a fixed empirical law, enabling transferable fatigue-life prediction across materials and loading conditions.</p>
     </div>
   </div>
 
@@ -90,7 +90,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1007/s12540-024-01628-6">Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>Metals and Materials International</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:IjCSPb-OGe4C'></span></div>
-      <p class="pub-item__summary">We build an interpretable machine learning model to capture short-crack growth mechanisms and predict crack growth rates in aluminum alloys.</p>
+      <p class="pub-item__summary">Combines predictive accuracy with interpretable machine learning to reveal how key variables govern short-crack growth in aluminum alloys.</p>
     </div>
   </div>
 
@@ -101,7 +101,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1186/s10033-023-00876-8">Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>Chinese Journal of Mechanical Engineering</i> (2023).<span class='show_paper_citations' data='krmnMWIAAAAJ:9yKSN-GCB0IC'></span></div>
-      <p class="pub-item__summary">We derive an explicit crack growth rate equation by guiding symbolic regression with fatigue domain knowledge.</p>
+      <p class="pub-item__summary">Guides symbolic regression with fatigue-domain knowledge to derive an explicit and physically consistent crack-growth-rate equation.</p>
     </div>
   </div>
 
@@ -112,7 +112,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">Estimating the fatigue crack growth rate of 6005A–T6 aluminum alloys with different stress ratios using machine learning methods</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Bing Yang, Chao Wang, Shuancheng Wang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>中国有色金属学报 (Chinese Journal of Nonferrous Metals)</i> (2023).<span class='show_paper_citations' data='krmnMWIAAAAJ:d1gkVwhDpl0C'></span></div>
-      <p class="pub-item__summary">We compare machine learning methods to predict stress-ratio-dependent fatigue crack growth rates in 6005A-T6 aluminum alloy.</p>
+      <p class="pub-item__summary">Benchmarks machine-learning models for stress-ratio-dependent fatigue-crack-growth prediction in 6005A–T6 aluminum alloy.</p>
     </div>
   </div>
 </div>
@@ -125,8 +125,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.ijmecsci.2026.111424">Deep learning characterization of stress-state-dependent anisotropic ductile damage</a></div>
-      <div class="pub-item__authors"><strong>Zhichao Wei</strong>, Yijia Mo, <strong>Shuwei Zhou</strong>, Steffen Gerke, Sebastian Münstermann, Michael Brünig. <i>International Journal of Mechanical Sciences</i> (2026).</div>
-      <p class="pub-item__summary">We use deep learning to characterize stress-state-dependent anisotropic ductile damage from mesoscale deformation data.</p>
+      <div class="pub-item__authors">Zhichao Wei, Yijia Mo, <strong>Shuwei Zhou</strong>, Steffen Gerke, Sebastian Münstermann, Michael Brünig. <i>International Journal of Mechanical Sciences</i> (2026).</div>
+      <p class="pub-item__summary">Uses deep learning to characterize stress-state-dependent anisotropic ductile damage from mesoscale deformation responses.</p>
     </div>
   </div>
 
@@ -136,8 +136,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.tws.2026.115160">Quasi-static compression energy absorption characteristics of bamboo-inspired heterogeneous hybrid structure with CFRP/SLM-fabricated AlSi10Mg lattice</a></div>
-      <div class="pub-item__authors"><strong>Mian Huang</strong>, Bing Yang, Yining Wang, Cheng Li, <strong>Shuwei Zhou</strong>, Dongdong Chen, Shoune Xiao. <i>Thin-Walled Structures</i> (2026).</div>
-      <p class="pub-item__summary">We design a bamboo-inspired CFRP/lattice hybrid structure and evaluate its quasi-static compression energy absorption performance.</p>
+      <div class="pub-item__authors">Mian Huang, Bing Yang, Yining Wang, Cheng Li, <strong>Shuwei Zhou</strong>, Dongdong Chen, Shoune Xiao. <i>Thin-Walled Structures</i> (2026).</div>
+      <p class="pub-item__summary">Reveals the compression response and energy-absorption mechanisms of a bamboo-inspired CFRP/SLM-fabricated AlSi10Mg hybrid structure.</p>
     </div>
   </div>
 
@@ -147,8 +147,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.eswa.2025.127098">Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework</a></div>
-      <div class="pub-item__authors"><strong>Feng Feng</strong>, Tao Zhu, Bing Yang, Zhe Zhang, <strong>Shuwei Zhou</strong>, Shoune Xiao. <i>Expert Systems with Applications</i> (2025).<span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span></div>
-      <p class="pub-item__summary">We develop a physics-informed neural network framework for probabilistic fatigue life prediction in additively manufactured materials.</p>
+      <div class="pub-item__authors">Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, <strong>Shuwei Zhou</strong>, Shoune Xiao. <i>Expert Systems with Applications</i> (2025).<span class='show_paper_citations' data='krmnMWIAAAAJ:LkGwnXOMwfcC'></span></div>
+      <p class="pub-item__summary">Integrates fatigue physics and probabilistic learning to quantify fatigue-life predictions and their uncertainty in additively manufactured materials.</p>
     </div>
   </div>
 
@@ -158,8 +158,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.msea.2025.147802">In-situ study of crack propagation mechanisms in wire arc additive manufactured Al-Mg alloys: Multiple strategies involving microdefects and microstructures</a></div>
-      <div class="pub-item__authors"><strong>Weiying Wen</strong>, Huan Qi, Zhen Liao, Lanxin Jiang, Mian Huang, Bing Yang, Zhiwei Wu, <strong>Shuwei Zhou</strong>. <i>Materials Science and Engineering: A</i> (2025).<span class='show_paper_citations' data='krmnMWIAAAAJ:_FxGoFyzp5QC'></span></div>
-      <p class="pub-item__summary">We investigate in-situ crack propagation mechanisms in wire-arc additively manufactured Al-Mg alloys across multiple microstructural strategies.</p>
+      <div class="pub-item__authors">Weiying Wen, Huan Qi, Zhen Liao, Lanxin Jiang, Mian Huang, Bing Yang, Zhiwei Wu, <strong>Shuwei Zhou</strong>. <i>Materials Science and Engineering: A</i> (2025).<span class='show_paper_citations' data='krmnMWIAAAAJ:_FxGoFyzp5QC'></span></div>
+      <p class="pub-item__summary">Uses in-situ observations to reveal how microdefects and microstructures govern crack propagation in wire-arc additively manufactured Al–Mg alloys.</p>
     </div>
   </div>
 
@@ -169,8 +169,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2024.110641">Effective stress intensity factor range for fatigue cracks propagating in mixed mode I-II loading</a></div>
-      <div class="pub-item__authors"><strong>Shuancheng Wang</strong>, <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>Engineering Fracture Mechanics</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span></div>
-      <p class="pub-item__summary">We define an effective stress intensity factor range for mixed-mode I-II fatigue crack propagation.</p>
+      <div class="pub-item__authors">Shuancheng Wang, <strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>Engineering Fracture Mechanics</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span></div>
+      <p class="pub-item__summary">Introduces an effective stress-intensity-factor range that unifies fatigue-crack-growth characterization under mixed-mode I–II loading.</p>
     </div>
   </div>
 
@@ -180,8 +180,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2024.110210">Effect of stress ratio and overload on mixed-mode crack propagation behaviour of EA4T steel</a></div>
-      <div class="pub-item__authors"><strong>Shuancheng Wang</strong>, Bing Yang, <strong>Shuwei Zhou</strong>, Yuanzhi Wang, Shoune Xiao. <i>Engineering Fracture Mechanics</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span></div>
-      <p class="pub-item__summary">We study how stress ratio and overload affect mixed-mode crack propagation behavior in EA4T steel.</p>
+      <div class="pub-item__authors">Shuancheng Wang, Bing Yang, <strong>Shuwei Zhou</strong>, Yuanzhi Wang, Shoune Xiao. <i>Engineering Fracture Mechanics</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:ufrVoPGSRksC'></span></div>
+      <p class="pub-item__summary">Clarifies how stress ratio and overload alter mixed-mode crack paths, growth rates, and retardation behavior in EA4T axle steel.</p>
     </div>
   </div>
 
@@ -191,8 +191,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1186/s10033-024-01061-1">Closure Effect of I + II Mixed-mode Crack for EA4T Axle Steel</a></div>
-      <div class="pub-item__authors"><strong>Shuancheng Wang</strong>, Bing Yang, <strong>Shuwei Zhou</strong>, Jian Li, Shoune Xiao. <i>Chinese Journal of Mechanical Engineering</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:eQOLeE2rZwMC'></span></div>
-      <p class="pub-item__summary">We analyze closure effects of mixed-mode I+II cracks in EA4T axle steel.</p>
+      <div class="pub-item__authors">Shuancheng Wang, Bing Yang, <strong>Shuwei Zhou</strong>, Jian Li, Shoune Xiao. <i>Chinese Journal of Mechanical Engineering</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:eQOLeE2rZwMC'></span></div>
+      <p class="pub-item__summary">Quantifies mixed-mode crack-closure behavior in EA4T axle steel and its influence on effective fatigue-crack-growth driving forces.</p>
     </div>
   </div>
 
@@ -202,8 +202,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel based on defect features</a></div>
-      <div class="pub-item__authors"><strong>Feng Feng</strong>, Tao Zhu, Bing Yang, <strong>Shuwei Zhou</strong>, Shoune Xiao. <i>International Journal of Fatigue</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:YsMSGLbcyi4C'></span></div>
-      <p class="pub-item__summary">We predict SLM 316L fatigue life with a physics-informed neural network based on defect features.</p>
+      <div class="pub-item__authors">Feng Feng, Tao Zhu, Bing Yang, <strong>Shuwei Zhou</strong>, Shoune Xiao. <i>International Journal of Fatigue</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:YsMSGLbcyi4C'></span></div>
+      <p class="pub-item__summary">Embeds defect-sensitive fatigue relationships into a physics-informed neural network for fatigue-life prediction of SLM 316L stainless steel.</p>
     </div>
   </div>
 
@@ -213,19 +213,19 @@ I am aiming to integrate these two research directions to develop data-driven mu
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2023.109430">Mixed mode crack growth behaviour considering plasticity-induced and roughness-induced closure</a></div>
-      <div class="pub-item__authors"><strong>Shuancheng Wang</strong>, Bing Yang, Jian Li, <strong>Shuwei Zhou</strong>, Shoune Xiao. <i>Engineering Fracture Mechanics</i> (2023).<span class='show_paper_citations' data='krmnMWIAAAAJ:qjMakFHDy7sC'></span></div>
-      <p class="pub-item__summary">We examine mixed-mode crack growth considering plasticity- and roughness-induced closure effects.</p>
+      <div class="pub-item__authors">Shuancheng Wang, Bing Yang, Jian Li, <strong>Shuwei Zhou</strong>, Shoune Xiao. <i>Engineering Fracture Mechanics</i> (2023).<span class='show_paper_citations' data='krmnMWIAAAAJ:qjMakFHDy7sC'></span></div>
+      <p class="pub-item__summary">Explains mixed-mode fatigue-crack-growth behavior by jointly accounting for plasticity-induced and roughness-induced crack closure.</p>
     </div>
   </div>
 
   <div class="pub-item">
     <div class="pub-item__thumb">
-      <img src="{{ '/images/2021-CJME-Wei.webp' | relative_url }}" alt="Graphical abstract: Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique">
+      <img src="{{ '/images/2021-CJME-Wei.jpg' | relative_url }}" alt="Graphical abstract: Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique">
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1186/s10033-021-00585-0">Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique</a></div>
-      <div class="pub-item__authors"><strong>Bing Yang</strong>, Zhanjiang Wei, Zhen Liao, <strong>Shuwei Zhou</strong>, Shoune Xiao, Tao Zhu, Guangwu Yang, Mingmeng Wang. <i>Chinese Journal of Mechanical Engineering</i> (2021).<span class='show_paper_citations' data='krmnMWIAAAAJ:2osOgNQ5qMEC'></span></div>
-      <p class="pub-item__summary">We develop a Gauss-Newton iterative method to accurately determine crack tip positions from experimental measurements.</p>
+      <div class="pub-item__authors">Bing Yang, Zhanjiang Wei, Zhen Liao, <strong>Shuwei Zhou</strong>, Shoune Xiao, Tao Zhu, Guangwu Yang, Mingmeng Wang. <i>Chinese Journal of Mechanical Engineering</i> (2021).<span class='show_paper_citations' data='krmnMWIAAAAJ:2osOgNQ5qMEC'></span></div>
+      <p class="pub-item__summary">Combines experimental displacement fields with Gauss–Newton iteration to accurately locate crack-tip positions.</p>
     </div>
   </div>
 </div>
