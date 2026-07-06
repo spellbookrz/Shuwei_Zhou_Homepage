@@ -55,9 +55,51 @@
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", updateScholarStats);
+    document.addEventListener("DOMContentLoaded", function () {
+      updateScholarStats();
+      initNavHighlight();
+    });
   } else {
     updateScholarStats();
+    initNavHighlight();
+  }
+
+  function initNavHighlight() {
+    var links = document.querySelectorAll(".topnav__link");
+    if (!links.length) return;
+
+    var sectionIds = ["about-me", "research", "publications", "service", "contact"];
+    var sections = sectionIds
+      .map(function (id) { return document.getElementById(id); })
+      .filter(Boolean);
+
+    function setActive(id) {
+      Array.prototype.forEach.call(links, function (link) {
+        var href = link.getAttribute("href") || "";
+        var hash = href.indexOf("#") >= 0 ? href.slice(href.indexOf("#") + 1) : "";
+        link.classList.toggle("is-active", hash === id);
+      });
+    }
+
+    function onScroll() {
+      var scrollPos = window.scrollY + 100;
+      var current = sectionIds[0];
+      sections.forEach(function (section) {
+        if (section.offsetTop <= scrollPos) current = section.id;
+      });
+      setActive(current);
+    }
+
+    Array.prototype.forEach.call(links, function (link) {
+      link.addEventListener("click", function () {
+        var href = link.getAttribute("href") || "";
+        var hash = href.indexOf("#") >= 0 ? href.slice(href.indexOf("#") + 1) : "";
+        if (hash) setActive(hash);
+      });
+    });
+
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
   }
 })();
 

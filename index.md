@@ -17,7 +17,7 @@ My academic path spans from master's work at Southwest Jiaotong University (SWJT
 <div class="research-grid">
 
 <div class="research-card">
-<h3>Scientific Machine Learning for Fracture Mechanics</h3>
+<h3>Mechanics-informed Machine Learning for Fracture Mechanics</h3>
 <p>I explore physics-embedded and analytically informed neural methods for fracture mechanics, including Kolosov–Muskhelishvili-informed neural networks, crack-tip field reconstruction, and stress-intensity factor prediction. This work aims to bridge classical fracture mechanics, analytical solutions, and modern scientific machine learning.</p>
 <div class="research-tags">
 <span class="chip">Fracture mechanics</span>
@@ -68,10 +68,10 @@ My academic path spans from master's work at Southwest Jiaotong University (SWJT
 <div class="research-pubs">
 <strong>Representative publications</strong>
 <ul>
+<li><a href="https://doi.org/10.1016/j.engfracmech.2025.111136">EFM 2025</a> — physics-informed fatigue prediction using derivative constraints rather than fixed empirical laws.</li>
+<li><a href="https://doi.org/10.1007/s12540-024-01628-6">MMI 2024</a> — interpretable machine learning for fatigue short crack growth.</li>
 <li><a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">CJNM 2023</a> — stress-ratio-dependent fatigue crack growth rate prediction.</li>
 <li><a href="https://doi.org/10.1186/s10033-023-00876-8">CJME 2023</a> — symbolic regression and domain-knowledge-guided fatigue crack growth modeling.</li>
-<li><a href="https://doi.org/10.1007/s12540-024-01628-6">MMI 2024</a> — interpretable machine learning for fatigue short crack growth.</li>
-<li><a href="https://doi.org/10.1016/j.engfracmech.2025.111136">EFM 2025</a> — physics-informed fatigue prediction using derivative constraints rather than fixed empirical laws.</li>
 </ul>
 </div>
 </div>
