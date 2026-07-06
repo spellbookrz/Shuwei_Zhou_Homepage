@@ -18,15 +18,12 @@
     </div>
 
     <div class="profile__links">
-      {% if author.email %}<a href="mailto:{{ author.email }}">Email</a>{% endif %}
-      {% if author.uri %}<a href="{{ author.uri }}">Website</a>{% endif %}
+      <a href="{{ '/CV/Academic_CV_Shuwei_Zhou_Postdoc.pdf' | relative_url }}">CV</a>
       {% if author.googlescholar %}<a href="{{ author.googlescholar }}">Google Scholar</a>{% endif %}
       {% if author.orcid %}<a href="{{ author.orcid }}">ORCID</a>{% endif %}
       {% if author.scopus %}<a href="{{ author.scopus }}">Scopus</a>{% endif %}
-      {% if author.researchgate %}<a href="{{ author.researchgate }}">ResearchGate</a>{% endif %}
       {% if author.github %}<a href="https://github.com/{{ author.github }}">GitHub</a>{% endif %}
+      {% if author.email %}<a href="mailto:{{ author.email }}">Email</a>{% endif %}
     </div>
   </div>
 </div>
-
-

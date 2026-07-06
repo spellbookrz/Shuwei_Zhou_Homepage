@@ -4,90 +4,162 @@ title: ""
 ---
 
 <span class="anchor" id="about-me"></span>
-Hi, my name is Shuwei Zhou. I am a Ph.D. candidate at the Institute of Metal Forming (IBF), RWTH Aachen University (2023.10–present), supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>.
-My research focuses on fatigue and fracture mechanics, with an emphasis on integrating machine learning and multiscale modeling for damage-tolerant design.
 
-I received my master's degree in Vehicle Engineering from the State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University (SWJTU), supervised by <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a> (2020–2023).
-I earned my bachelor’s degree in Engineering Mechanics from the School of Mechanics and Aerospace Engineering, SWJTU (2016–2020).
+I am a Ph.D. candidate at the Institute of Metal Forming, RWTH Aachen University, working on fatigue and fracture mechanics of metallic materials. My research combines domain knowledge, crystal plasticity simulations, microstructure-sensitive fatigue modeling, and physics-guided machine learning to understand crack initiation, fatigue crack growth, and fatigue life.
 
-My current research covers two major directions in damage-tolerant fatigue and fracture analysis:
+I am particularly interested in developing interpretable, physics-embedded computational frameworks for damage-tolerant design, bridging experimental observations, multiscale simulations, and data-driven models.
 
-1. **Physics-embedded Machine Learning for Fatigue and Fracture**
+My academic path spans from master's work at Southwest Jiaotong University (SWJTU), supervised by <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a>, to my current Ph.D. at RWTH Aachen University, supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>. This trajectory reflects a continuous research line from fatigue crack growth modeling toward physics-guided fatigue prediction, microstructure-sensitive fatigue analysis, and neural fracture mechanics.
 
-   I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
+<span class="anchor" id="research"></span>
+## Research
 
-   <a href="https://arxiv.org/abs/2605.02310">International Journal of Mechanical Sciences</a>
-   
-   <a href="https://doi.org/10.1016/j.tafmec.2026.105582">Theoretical and Applied Fracture Mechanics</a>
-   
-   <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a>
+<div class="research-grid">
 
-   <a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a>
+<div class="research-card">
+<h3>Scientific Machine Learning for Fracture Mechanics</h3>
+<p>I explore physics-embedded and analytically informed neural methods for fracture mechanics, including Kolosov–Muskhelishvili-informed neural networks, crack-tip field reconstruction, and stress-intensity factor prediction. This work aims to bridge classical fracture mechanics, analytical solutions, and modern scientific machine learning.</p>
+<div class="research-tags">
+<span class="chip">Fracture mechanics</span>
+<span class="chip">Stress intensity factors</span>
+<span class="chip">Kolosov–Muskhelishvili potentials</span>
+<span class="chip">PIHNN</span>
+<span class="chip">KMINN</span>
+<span class="chip">Scientific machine learning</span>
+</div>
+<div class="research-pubs">
+<strong>Representative publications</strong>
+<ul>
+<li><a href="https://doi.org/10.1016/j.tafmec.2026.105582">TAFM 2026</a> — transfer-learned Kolosov–Muskhelishvili informed neural networks for mixed-mode stress intensity factor prediction.</li>
+<li><a href="https://doi.org/10.1016/j.ijmecsci.2026.111860">IJMS 2026</a> — variational Kolosov–Muskhelishvili network for elasticity and fracture.</li>
+</ul>
+</div>
+</div>
 
-   <a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">Chinese Journal of Mechanical Engineering</a>
+<div class="research-card">
+<h3>Microstructure-Sensitive Fatigue and Crystal-Plasticity Modeling</h3>
+<p>I use EBSD-informed microstructural modeling and crystal plasticity finite element simulations to investigate crack initiation, microstructurally short crack growth, and fatigue-life partitioning in metallic materials. This research connects local cyclic plasticity, fatigue indicator parameters, and macroscopic fatigue performance.</p>
+<div class="research-tags">
+<span class="chip">EBSD</span>
+<span class="chip">Crystal plasticity</span>
+<span class="chip">CPFEM</span>
+<span class="chip">Fatigue indicator parameters</span>
+<span class="chip">Microstructurally short cracks</span>
+<span class="chip">Fatigue life partition</span>
+</div>
+<div class="research-pubs">
+<strong>Representative publication</strong>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">IJF 2026</a> — microstructure-sensitive fatigue modeling of LZ50 steel using EBSD-informed RVE, CPFEM, FIP, crack initiation, and microstructurally short crack growth.</li>
+</ul>
+</div>
+</div>
 
-   <a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">中国有色金属学报 (Chinese Journal of Nonferrous Metals)</a>
+<div class="research-card">
+<h3>Domain Knowledge-Guided Fatigue Crack Growth Modeling</h3>
+<p>I have developed machine learning, symbolic regression, and interpretable modeling approaches for fatigue crack growth and short-crack behavior in metallic materials. This line of work started from stress-ratio-dependent fatigue crack growth prediction and evolved toward domain-knowledge-guided and physics-informed models for fatigue and fracture analysis.</p>
+<div class="research-tags">
+<span class="chip">Fatigue crack growth</span>
+<span class="chip">Short cracks</span>
+<span class="chip">Symbolic regression</span>
+<span class="chip">Interpretable machine learning</span>
+<span class="chip">Physics-informed fatigue prediction</span>
+</div>
+<div class="research-pubs">
+<strong>Representative publications</strong>
+<ul>
+<li><a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">CJNM 2023</a> — stress-ratio-dependent fatigue crack growth rate prediction.</li>
+<li><a href="https://doi.org/10.1186/s10033-023-00876-8">CJME 2023</a> — symbolic regression and domain-knowledge-guided fatigue crack growth modeling.</li>
+<li><a href="https://doi.org/10.1007/s12540-024-01628-6">MMI 2024</a> — interpretable machine learning for fatigue short crack growth.</li>
+<li><a href="https://doi.org/10.1016/j.engfracmech.2025.111136">EFM 2025</a> — physics-informed fatigue prediction using derivative constraints rather than fixed empirical laws.</li>
+</ul>
+</div>
+</div>
 
-2. **Crystal Plasticity Finite Element Method (CPFEM)**
-
-   I employ CPFEM to systematically investigate microstructure-sensitive fatigue crack initiation and growth in metallic materials. Representative work has been published in
-
-   <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a>
-
-I am aiming to integrate these two research directions to develop data-driven multiscale frameworks for understanding and predicting fatigue behavior.
+</div>
 
 <span class="anchor" id="publications"></span>
 ## Publications
 
-### First-Author Publications
+### Selected First-Author Publications
 <div class="pub-section">
-  <div class="pub-item">
+
+  <div class="pub-item pub-item--featured">
     <div class="pub-item__thumb">
       <span class="pub-item__venue">IJMS</span>
       <img src="{{ '/images/2026-IJMS-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Variational Kolosov-Muskhelishvili Network for Elasticity and Fracture">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Fracture mechanics</span>
+        <span class="pub-tag">Scientific ML</span>
+      </div>
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.ijmecsci.2026.111860">A Variational Kolosov--Muskhelishvili Network for Elasticity and Fracture</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Christian Häffner, Sophie Stebner, Niklas Fehlemann, Zhichao Wei, Sebastian Münstermann. <i>International Journal of Mechanical Sciences</i> (2026).<span class='show_paper_citations' data='krmnMWIAAAAJ:MXK_kJrjxJIC'></span></div>
-      <p class="pub-item__summary">Embeds Kolosov–Muskhelishvili potentials and crack-tip asymptotics into an energy-based neural framework for accurate 2D elasticity and fracture analysis.</p>
+      <p class="pub-item__highlight">Embeds Kolosov–Muskhelishvili potentials and crack-tip asymptotics into a variational neural framework for accurate 2D elasticity and fracture analysis.</p>
+      <p class="pub-item__summary">Develops vKMINN, a physics-embedded network that reconstructs elastic and fracture fields while preserving analytical structure near crack tips.</p>
     </div>
   </div>
 
-  <div class="pub-item">
+  <div class="pub-item pub-item--featured">
     <div class="pub-item__thumb">
       <span class="pub-item__venue">IJF</span>
       <img src="{{ '/images/2025_IJF_CP_for_fatigue.jpg' | relative_url }}" alt="Graphical abstract: CPFEM-based microstructure-sensitive fatigue modeling">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Crystal plasticity</span>
+        <span class="pub-tag">CPFEM</span>
+      </div>
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann. <i>International Journal of Fatigue</i> (2026).<span class='show_paper_citations' data='krmnMWIAAAAJ:UebtZRa9Y70C'></span></div>
-      <p class="pub-item__summary">Couples crystal plasticity, fatigue indicators, and microstructurally short crack growth to predict crack initiation and total fatigue life in LZ50 steel.</p>
+      <p class="pub-item__highlight">Links EBSD-informed microstructure, CPFEM, fatigue indicator parameters, and microstructurally short crack growth to predict crack initiation and total fatigue life.</p>
+      <p class="pub-item__summary">Establishes a multiscale framework that partitions fatigue life into initiation and propagation stages for microstructure-sensitive design.</p>
     </div>
   </div>
 
-  <div class="pub-item">
+  <div class="pub-item pub-item--featured">
     <div class="pub-item__thumb">
       <span class="pub-item__venue">TAFM</span>
       <img src="{{ '/images/2026_UR_KMINN.png' | relative_url }}" alt="Graphical abstract: Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Fracture mechanics</span>
+        <span class="pub-tag">Scientific ML</span>
+      </div>
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.tafmec.2026.105582">Transfer-learned Kolosov-Muskhelishvili Informed Neural Networks for Fracture Mechanics</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Christian Haeffner, Shuancheng Wang, Sophie Stebner, Zhen Liao, Bing Yang, Zhichao Wei, Sebastian Muenstermann. <i>Theoretical and Applied Fracture Mechanics</i> (2026).<span class='show_paper_citations' data='krmnMWIAAAAJ:8k81kl-MbHgC'></span></div>
-      <p class="pub-item__summary">Reuses pretrained KMINN solutions across fracture problems, reducing training effort while retaining accurate mixed-mode stress itensity factors predictions.</p>
+      <p class="pub-item__highlight">Introduces transfer learning for KMINN to reuse pretrained fracture solutions and improve mixed-mode stress intensity factor prediction with reduced training cost.</p>
+      <p class="pub-item__summary">Demonstrates how analytically informed neural networks can be transferred across fracture configurations while retaining physical consistency.</p>
     </div>
   </div>
 
-  <div class="pub-item">
+  <div class="pub-item pub-item--featured">
     <div class="pub-item__thumb">
       <span class="pub-item__venue">EFM</span>
       <img src="{{ '/images/2025_EFM_PINN_for_fatigue_life.jpg' | relative_url }}" alt="Graphical abstract: PINN framework for fatigue life prediction">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Physics-informed ML</span>
+        <span class="pub-tag">Fatigue crack growth</span>
+      </div>
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2025.111136">A general physics-informed neural network framework for fatigue life prediction of metallic materials</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann. <i>Engineering Fracture Mechanics</i> (2025).<span class='show_paper_citations' data='krmnMWIAAAAJ:roLk4NBRz8UC'></span></div>
-      <p class="pub-item__summary">Encodes general fatigue trends as derivative constraints rather than prescribing a fixed empirical law, enabling transferable fatigue life prediction across materials and loading conditions.</p>
+      <p class="pub-item__highlight">Proposes a general PINN framework that encodes fatigue trends through derivative constraints instead of prescribing a fixed empirical law.</p>
+      <p class="pub-item__summary">Enables transferable fatigue life prediction across materials and loading conditions by embedding domain knowledge as soft physical constraints.</p>
     </div>
   </div>
+
+</div>
+
+### Other First-Author Publications
+<div class="pub-section">
 
   <div class="pub-item">
     <div class="pub-item__thumb">
@@ -95,6 +167,10 @@ I am aiming to integrate these two research directions to develop data-driven mu
       <img src="{{ '/images/2024-MMI-zhou.webp' | relative_url }}" alt="Graphical abstract: Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Fatigue crack growth</span>
+      </div>
       <div class="pub-item__title"><a href="https://doi.org/10.1007/s12540-024-01628-6">Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>Metals and Materials International</i> (2024).<span class='show_paper_citations' data='krmnMWIAAAAJ:IjCSPb-OGe4C'></span></div>
       <p class="pub-item__summary">Combines predictive accuracy with interpretable machine learning to reveal how key variables govern short crack growth in aluminum alloys.</p>
@@ -107,10 +183,14 @@ I am aiming to integrate these two research directions to develop data-driven mu
       <img src="{{ '/images/2023-CJME-Zhou.jpg' | relative_url }}" alt="Graphical abstract: Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Fatigue crack growth</span>
+      </div>
       <div class="pub-item__title"><a href="https://doi.org/10.1186/s10033-023-00876-8">Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>Chinese Journal of Mechanical Engineering</i> (2023).<span class='show_paper_citations' data='krmnMWIAAAAJ:9yKSN-GCB0IC'></span></div>
       <p class="pub-item__summary">Guides symbolic regression with fatigue-domain knowledge to derive an explicit and physically consistent fatigue crack growth rate equation.</p>
-    </div> 
+    </div>
   </div>
 
   <div class="pub-item">
@@ -119,11 +199,16 @@ I am aiming to integrate these two research directions to develop data-driven mu
       <img src="{{ '/images/2023-youse-Zhou.png' | relative_url }}" alt="Graphical abstract: Estimating the fatigue crack growth rate of 6005A-T6 aluminum alloys with different stress ratios using machine learning methods">
     </div>
     <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">First-author</span>
+        <span class="pub-tag">Fatigue crack growth</span>
+      </div>
       <div class="pub-item__title"><a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">Estimating the fatigue crack growth rate of 6005A–T6 aluminum alloys with different stress ratios using machine learning methods</a></div>
       <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Bing Yang, Chao Wang, Shuancheng Wang, Shoune Xiao, Guangwu Yang, Tao Zhu. <i>中国有色金属学报 (Chinese Journal of Nonferrous Metals)</i> (2023).<span class='show_paper_citations' data='krmnMWIAAAAJ:d1gkVwhDpl0C'></span></div>
       <p class="pub-item__summary">Benchmarks machine learning models for stress ratio-dependent fatigue crack growth rate prediction in 6005A-T6 aluminum alloy.</p>
     </div>
   </div>
+
 </div>
 
 ### Collaborative Publications
@@ -249,33 +334,23 @@ I am aiming to integrate these two research directions to develop data-driven mu
   </div>
 </div>
 
-<span class="anchor" id="educations"></span>
-## Educations
-- *2023.10 - present*, Ph.D. candidate in the Institute of Metal Forming, RWTH Aachen University, Germany.
-- *2020.09 - 2023.06*, Master's degree in Vehicle Engineering, State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University, China.
-- *2016.09 - 2020.06*, Bachelor's degree in Engineering Mechanics, School of Mechanics and Aerospace Engineering, Southwest Jiaotong University, China.
+<span class="anchor" id="education"></span>
+## Education
 
-<span class="anchor" id="peer-reviewer"></span>
-## Peer Reviewer
-- International Journal of Fatigue
-- Engineering Fracture Mechanics
-- Theoretical and Applied Fracture Mechanics
-- International Journal for Numerical Methods in Engineering
-- Reliability Engineering and System Safety
-- Expert Systems with Applications
-- Engineering Structures
-- Engineering Applications of Artificial Intelligence
-- Journal of Materials Research and Technology
-- Structural Health Monitoring
-- International Journal of Pressure Vessels and Piping
-- International Journal of Cast Metals Research
-- Journal of Central South University
-- Digital Engineering
-- Computers, Materials & Continua 
-- Array
-- 工程热物理学报 (Journal of Engineering Thermophysics)
+- *2023.10 – present*, Ph.D. candidate, Institute of Metal Forming, RWTH Aachen University, Germany.
+- *2020.09 – 2023.06*, M.Sc. in Vehicle Engineering, State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University, China.
+- *2016.09 – 2020.06*, B.Eng. in Engineering Mechanics, School of Mechanics and Aerospace Engineering, Southwest Jiaotong University, China.
 
----
+<span class="anchor" id="service"></span>
+## Academic Service
 
-[Academic CV (PDF)]({{ '/CV/Academic_CV_Shuwei_Zhou_Postdoc.pdf' | relative_url }})
+Ad hoc reviewer for: International Journal of Fatigue; Engineering Fracture Mechanics; Theoretical and Applied Fracture Mechanics; International Journal for Numerical Methods in Engineering; Reliability Engineering and System Safety; Expert Systems with Applications; Engineering Structures; Engineering Applications of Artificial Intelligence; Journal of Materials Research and Technology; Structural Health Monitoring; International Journal of Pressure Vessels and Piping; International Journal of Cast Metals Research; Journal of Central South University; Digital Engineering; Computers, Materials &amp; Continua; Array; 工程热物理学报 (Journal of Engineering Thermophysics).
 
+<span class="anchor" id="contact"></span>
+## Contact
+
+Institute of Metal Forming (IBF), RWTH Aachen University, Aachen, Germany
+
+Email: [shuwei.zhou@ibf.rwth-aachen.de](mailto:shuwei.zhou@ibf.rwth-aachen.de)
+
+CV: [Academic CV (PDF)]({{ '/CV/Academic_CV_Shuwei_Zhou_Postdoc.pdf' | relative_url }})

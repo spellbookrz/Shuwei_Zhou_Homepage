@@ -1,12 +1,13 @@
 main:
   - title: "About"
     url: "/#about-me"
+  - title: "Research"
+    url: "/#research"
   - title: "Publications"
     url: "/#publications"
-  - title: "Educations"
-    url: "/#educations"
-  - title: "Peer Reviewer"
-    url: "/#peer-reviewer"
-
-
-
+  - title: "CV"
+    url: "/CV/Academic_CV_Shuwei_Zhou_Postdoc.pdf"
+  - title: "Service"
+    url: "/#service"
+  - title: "Contact"
+    url: "/#contact"
