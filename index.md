@@ -5,14 +5,12 @@ title: ""
 
 <span class="anchor" id="about-me"></span>
 
-<div class="intro-block" markdown="1">
+<div class="intro-block">
+  <p>I am a Ph.D. candidate at the Institute of Metal Forming, RWTH Aachen University, working on fatigue and fracture mechanics of metallic materials. My research combines domain knowledge, crystal plasticity simulations, microstructure-sensitive fatigue modeling, and physics-guided machine learning to understand crack initiation, fatigue crack growth, and fatigue life.</p>
 
-I am a Ph.D. candidate at the Institute of Metal Forming, RWTH Aachen University, working on fatigue and fracture mechanics of metallic materials. My research combines domain knowledge, crystal plasticity simulations, microstructure-sensitive fatigue modeling, and physics-guided machine learning to understand crack initiation, fatigue crack growth, and fatigue life.
+  <p>I am particularly interested in developing interpretable, physics-embedded computational frameworks for damage-tolerant design, bridging experimental observations, multiscale simulations, and data-driven models.</p>
 
-I am particularly interested in developing interpretable, physics-embedded computational frameworks for damage-tolerant design, bridging experimental observations, multiscale simulations, and data-driven models.
-
-My academic path spans from master's work at Southwest Jiaotong University (SWJTU), supervised by <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a>, to my current Ph.D. at RWTH Aachen University, supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>. This trajectory reflects a continuous research line from fatigue crack growth modeling toward physics-guided fatigue prediction, microstructure-sensitive fatigue analysis, and neural fracture mechanics.
-
+  <p>My academic path spans from master's work at Southwest Jiaotong University (SWJTU), supervised by <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a>, to my current Ph.D. at RWTH Aachen University, supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>. This trajectory reflects a continuous research line from fatigue crack growth modeling toward physics-guided fatigue prediction, microstructure-sensitive fatigue analysis, and neural fracture mechanics.</p>
 </div>
 <span class="anchor" id="research"></span>
 ## Research
