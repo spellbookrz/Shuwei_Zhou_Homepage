@@ -132,6 +132,11 @@ a:hover {
   box-shadow: var(--shadow-sm);
 }
 
+.profile__main {
+  min-width: 0;
+  width: 100%;
+}
+
 .profile__name {
   margin: 0;
   font-size: 1.85rem;
