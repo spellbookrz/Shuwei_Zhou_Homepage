@@ -272,6 +272,10 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - Journal of Central South University
 - Digital Engineering
 - Computers, Materials & Continua 
+- Array
 - 工程热物理学报 (Journal of Engineering Thermophysics)
 
+---
+
+[Academic CV (PDF)]({{ '/CV/Academic_CV_Shuwei_Zhou_Postdoc.pdf' | relative_url }})
 
