@@ -253,9 +253,25 @@ a:hover {
 
 .content > p {
   max-width: 72ch;
-  margin: 0 0 1rem;
-  line-height: 1.75;
+  margin: 0 0 1.25em;
+  line-height: 1.85;
   color: var(--fg);
+}
+
+.intro-block {
+  margin-bottom: 0.25rem;
+}
+
+.intro-block p {
+  max-width: 72ch;
+  margin: 0 0 1.35em;
+  line-height: 1.85;
+  font-size: 1rem;
+  color: var(--fg);
+}
+
+.intro-block p:last-child {
+  margin-bottom: 0;
 }
 
 .content ul {
@@ -264,8 +280,8 @@ a:hover {
 }
 
 .content li {
-  margin: 6px 0;
-  line-height: 1.65;
+  margin: 8px 0;
+  line-height: 1.7;
 }
 
 .content code {
