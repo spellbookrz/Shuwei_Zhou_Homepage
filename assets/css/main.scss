@@ -271,6 +271,9 @@ a:hover {
   line-height: 1.85;
   font-size: 1rem;
   color: var(--fg);
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
 
 .intro-block p + p {
