@@ -6,11 +6,11 @@ title: ""
 <span class="anchor" id="about-me"></span>
 
 <div class="intro-block">
-  <p>I am a Ph.D. candidate at the Institute of Metal Forming, RWTH Aachen University, working on fatigue and fracture mechanics of metallic materials. My research combines domain knowledge, crystal plasticity simulations, microstructure-sensitive fatigue modeling, and physics-guided machine learning to understand crack initiation, fatigue crack growth, and fatigue life.</p>
+  <p>I am a Ph.D. candidate at the Institute of Metal Forming, RWTH Aachen University, supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>. My research focuses on fatigue and fracture mechanics of metallic materials, combining domain knowledge, crystal plasticity simulations, microstructure-sensitive fatigue modeling, and physics-guided machine learning to understand crack initiation, fatigue crack growth, and fatigue life.</p>
 
-  <p>I am particularly interested in developing interpretable, physics-embedded computational frameworks for damage-tolerant design, bridging experimental observations, multiscale simulations, and data-driven models.</p>
+  <p>My current work aims to develop interpretable, physics-embedded computational frameworks for damage-tolerant design by bridging experimental observations, multiscale simulations, and data-driven models. Before joining RWTH Aachen University, I received my master's degree from Southwest Jiaotong University, where I worked on fatigue crack growth modeling and machine learning-assisted fatigue prediction under the supervision of <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a>.</p>
 
-  <p>My academic path spans from master's work at Southwest Jiaotong University (SWJTU), supervised by <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a>, to my current Ph.D. at RWTH Aachen University, supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>. This trajectory reflects a continuous research line from fatigue crack growth modeling toward physics-guided fatigue prediction, microstructure-sensitive fatigue analysis, and neural fracture mechanics.</p>
+  <p>I am open to collaborations in fatigue and fracture mechanics, microstructure-sensitive modeling, computational mechanics, and scientific machine learning for materials and structures.</p>
 </div>
 <span class="anchor" id="research"></span>
 ## Research
