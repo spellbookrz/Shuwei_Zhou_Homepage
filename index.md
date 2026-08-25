@@ -234,7 +234,7 @@ title: ""
     </div>
     <div class="pub-item__text">
       <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2026.112526">Stress-based fracture criterion for sheet metals under different stress states</a></div>
-      <div class="pub-item__authors">Zhichao Wei, Guoxi Mao, <strong>Shuwei Zhou</strong>, Sebastian Münstermann, Steffen Gerke, Michael Brünig. <i>Engineering Fracture Mechanics</i> (2026).</div>
+      <div class="pub-item__authors">Zhichao Wei, Guoxi Mao, <strong>Shuwei Zhou</strong>, Sebastian Münstermann, Steffen Gerke, Michael Brünig. <i>Engineering Fracture Mechanics</i> (2026). <span class='show_paper_citations' data='krmnMWIAAAAJ:Zph67rFs4hoC'></span></div>
       <p class="pub-item__summary">Proposes a stress-based fracture criterion that describes sheet-metal failure across a wide range of stress triaxiality and Lode-parameter states.</p>
     </div>
   </div>
