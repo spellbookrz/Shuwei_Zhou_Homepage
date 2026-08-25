@@ -213,7 +213,32 @@ title: ""
 </div>
 
 ### Collaborative Publications
+
 <div class="pub-section">
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <span class="pub-item__venue">MD</span>
+      <img src="{{ '/images/2026-MD-Mao.jpg' | relative_url }}" alt="Graphical abstract: Dual-scale analysis of mechanical behavior of laser powder bed fusion manufactured 316 L stainless steel">
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__title"><a href="https://doi.org/10.1016/j.matdes.2026.116789">Dual-scale analysis of mechanical behavior of laser powder bed fusion manufactured 316 L stainless steel</a></div>
+      <div class="pub-item__authors">Guoxi Mao, Peter Karentzopoulos, Christian Häffner, <strong>Shuwei Zhou</strong>, Zhichao Wei, Selim Mrzljak, Niklas Fehlemann, Sophie Stebner, Frank Walther, Sebastian Münstermann. <i>Materials & Design</i> (2026). <span class='show_paper_citations' data='krmnMWIAAAAJ:KlAtU1dfN6UC'></span></div>
+      <p class="pub-item__summary">Links EBSD-informed 3D RVE generation and crystal plasticity to predict size-dependent yielding of laser powder bed fusion 316 L stainless steel.</p>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-item__thumb">
+      <span class="pub-item__venue">EFM</span>
+      <img src="{{ '/images/2026-EFM-Wei.jpg' | relative_url }}" alt="Graphical abstract: Stress-based fracture criterion for sheet metals under different stress states">
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-item__title"><a href="https://doi.org/10.1016/j.engfracmech.2026.112526">Stress-based fracture criterion for sheet metals under different stress states</a></div>
+      <div class="pub-item__authors">Zhichao Wei, Guoxi Mao, <strong>Shuwei Zhou</strong>, Sebastian Münstermann, Steffen Gerke, Michael Brünig. <i>Engineering Fracture Mechanics</i> (2026).</div>
+      <p class="pub-item__summary">Proposes a stress-based fracture criterion that describes sheet-metal failure across a wide range of stress triaxiality and Lode-parameter states.</p>
+    </div>
+  </div>
+
   <div class="pub-item">
     <div class="pub-item__thumb">
       <span class="pub-item__venue">IJMS</span>
@@ -345,7 +370,7 @@ title: ""
 <span class="anchor" id="service"></span>
 ## Academic Service
 
-Ad hoc reviewer for:
+Peer reviewers for:
 
 - International Journal of Fatigue
 - Engineering Fracture Mechanics
@@ -355,6 +380,7 @@ Ad hoc reviewer for:
 - Expert Systems with Applications
 - Engineering Structures
 - Engineering Applications of Artificial Intelligence
+- International Journal of Damage Mechanics
 - Journal of Materials Research and Technology
 - Structural Health Monitoring
 - International Journal of Pressure Vessels and Piping
@@ -363,6 +389,8 @@ Ad hoc reviewer for:
 - Digital Engineering
 - Computers, Materials & Continua
 - Array
+- Integration
+- Journal of Materials: Design and Applications
 - 工程热物理学报 (Journal of Engineering Thermophysics)
 
 <span class="anchor" id="contact"></span>
