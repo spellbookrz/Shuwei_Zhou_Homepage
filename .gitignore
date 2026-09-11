@@ -8,3 +8,4 @@ vendor/
 
 *.pdf
 !CV/*.pdf
+!slides/*.pdf

@@ -504,6 +504,33 @@ a:hover {
   background: var(--bg-soft);
 }
 
+/* Talks */
+.talk-item__thumb a {
+  display: block;
+  text-decoration: none;
+}
+
+.talk-item__thumb img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.talk-item__event {
+  margin: 8px 0 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--fg);
+  font-weight: 500;
+}
+
+.talk-item__actions {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
 .anchor {
   display: block;
   position: relative;

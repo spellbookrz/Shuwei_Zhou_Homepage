@@ -68,7 +68,7 @@
     var links = document.querySelectorAll(".topnav__link");
     if (!links.length) return;
 
-    var sectionIds = ["about-me", "research", "publications", "service", "contact"];
+    var sectionIds = ["about-me", "research", "talks", "publications", "service", "contact"];
     var sections = sectionIds
       .map(function (id) { return document.getElementById(id); })
       .filter(Boolean);

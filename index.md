@@ -79,6 +79,36 @@ title: ""
 
 </div>
 
+<span class="anchor" id="talks"></span>
+## Talks
+
+<div class="pub-section">
+  <div class="pub-item pub-item--featured talk-item">
+    <div class="pub-item__thumb talk-item__thumb">
+      <span class="pub-item__venue">ECF25</span>
+      <a href="{{ '/slides/2026-ECF25-Zhou.pptx' | relative_url }}" download="2026-ECF25-Zhou.pptx">
+        <img src="{{ '/images/2026-ECF25-Zhou.jpg' | relative_url }}" alt="Title slide: Embedding Analytical Fracture Mechanics into Neural Networks, ECF25 Athens">
+      </a>
+    </div>
+    <div class="pub-item__text">
+      <div class="pub-tags">
+        <span class="pub-tag">Oral presentation</span>
+        <span class="pub-tag">Fracture mechanics</span>
+        <span class="pub-tag">Scientific ML</span>
+      </div>
+      <div class="pub-item__title"><a href="{{ '/slides/2026-ECF25-Zhou.pptx' | relative_url }}" download="2026-ECF25-Zhou.pptx">Embedding Analytical Fracture Mechanics into Neural Networks</a></div>
+      <div class="pub-item__authors"><strong>Shuwei Zhou</strong>, Christian Häffner, Sophie Stebner, Sebastian Münstermann.</div>
+      <p class="talk-item__event"><a href="https://ecf25.eu/en">25th European Conference on Fracture (ECF25)</a> · Athens, Greece · 12 September 2026</p>
+      <p class="pub-item__highlight">From Williams-enriched Kolosov–Muskhelishvili networks to a variational formulation for analytical fracture mechanics in neural models.</p>
+      <p class="pub-item__summary">Presents a physics-embedded neural framework that carries classical crack-tip structure into scientific machine learning for elasticity and fracture analysis.</p>
+      <div class="talk-item__actions">
+        <a class="btn btn-primary" href="{{ '/slides/2026-ECF25-Zhou.pptx' | relative_url }}" download="2026-ECF25-Zhou.pptx">Download slides (PPTX)</a>
+        <a class="btn btn-secondary" href="https://ecf25.eu/en">Conference website</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <span class="anchor" id="publications"></span>
 ## Publications
 
