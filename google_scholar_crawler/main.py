@@ -1,8 +1,13 @@
-from scholarly import scholarly, ProxyGenerator
 import json
 from datetime import datetime
 import os
 import time
+
+from scholarly import scholarly, ProxyGenerator
+
+scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID", "").strip()
+if not scholar_id:
+    raise RuntimeError("GOOGLE_SCHOLAR_ID is not set. Add it as a repository secret.")
 
 max_attempts = 100
 wait_seconds = 600  # 10 minutes
@@ -15,7 +20,7 @@ for attempt in range(1, max_attempts + 1):
         pg.FreeProxies()
         scholarly.use_proxy(pg)
 
-        author = scholarly.search_author_id(os.environ["GOOGLE_SCHOLAR_ID"])
+        author = scholarly.search_author_id(scholar_id)
         scholarly.fill(author, sections=["basics", "indices", "counts", "publications"])
         print(f"Attempt {attempt} success")
         break
